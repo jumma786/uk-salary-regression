@@ -1,0 +1,721 @@
+employee_record_id,region,role_family,sector,company_size,education_level,seniority_level,years_experience,professional_certifications,technical_skill_score,remote_days_per_week,people_management,weekly_contract_hours,training_hours_last_12m,annual_salary_gbp
+EMP-0187,North West,Operations,Retail,Medium,Professional certification,Associate,1.9,1,54.2,0,0,34.2,17.3,56000
+EMP-0497,North West,Software,Education,Large,Professional certification,Associate,3.7,2,93.6,4,0,37.9,66.2,84900
+EMP-0321,South West,Data,Technology,Medium,Master,Senior,2.1,2,81.5,1,0,40.2,32.0,92900
+EMP-0363,London,People,Technology,Medium,Bachelor,Mid,6.6,2,77.3,2,0,42.4,61.3,88300
+EMP-0610,North West,Data,Retail,Enterprise,Professional certification,Associate,8.2,3,77.3,2,0,36.4,44.6,93600
+EMP-0602,West Midlands,Software,Financial services,Large,Bachelor,Mid,2.1,0,82.4,2,0,39.0,85.2,78700
+EMP-0660,North West,Software,Retail,Large,Bachelor,Associate,1.0,1,74.1,4,0,36.5,32.0,64800
+EMP-0260,Wales,Data,Healthcare,Small,Apprenticeship,Senior,3.8,1,66.5,0,0,35.1,38.3,62900
+EMP-0562,South East,Software,Public sector,Small,Apprenticeship,Associate,1.0,1,59.5,4,0,40.7,38.9,65200
+EMP-0222,Scotland,Finance,Public sector,Small,Master,Senior,5.9,3,68.3,4,1,40.0,57.6,87500
+EMP-0110,South West,Software,Healthcare,Enterprise,Bachelor,Mid,17.3,0,100.0,5,1,36.2,21.5,122800
+EMP-0058,Scotland,Data,Retail,Medium,Master,Mid,1.9,2,65.6,5,0,41.4,17.7,77200
+EMP-0615,South East,People,Technology,Medium,Master,Mid,1.3,2,63.4,2,0,37.3,43.3,73900
+EMP-0353,Scotland,Software,Retail,Large,Apprenticeship,Senior,7.2,1,67.7,4,0,33.5,47.6,87700
+EMP-0386,South West,Product,Education,Small,Master,Mid,2.0,2,53.0,5,0,35.5,38.9,65400
+EMP-0410,South West,People,Financial services,Small,Master,Senior,6.1,0,65.2,2,0,39.3,30.1,83000
+EMP-0281,London,Data,Public sector,Medium,Professional certification,Mid,4.1,3,74.7,3,0,36.4,47.8,84500
+EMP-0395,London,People,Financial services,Large,Bachelor,Mid,2.6,0,73.0,1,0,37.1,5.1,78800
+EMP-0421,West Midlands,Software,Education,Medium,Professional certification,Associate,9.4,2,81.5,5,0,33.4,56.0,82600
+EMP-0669,South East,People,Financial services,Large,Apprenticeship,Mid,8.6,3,96.8,4,0,38.2,36.7,105300
+EMP-0447,South West,Finance,Public sector,Medium,Bachelor,Associate,8.3,0,83.9,1,1,42.0,9.7,86000
+EMP-0581,Scotland,Data,Healthcare,Enterprise,Professional certification,Senior,8.4,4,84.2,2,0,36.1,60.3,110700
+EMP-0361,South West,Software,Financial services,Medium,Bachelor,Associate,5.2,2,76.1,2,0,44.7,52.3,81600
+EMP-0100,South West,Software,Healthcare,Small,Professional certification,Mid,4.0,1,64.7,3,0,37.3,26.7,86400
+EMP-0285,Wales,Operations,Public sector,Large,Apprenticeship,Mid,8.2,2,82.3,4,1,32.7,41.4,75000
+EMP-0684,North West,Software,Retail,Medium,Master,Senior,6.1,2,95.8,2,1,35.3,64.2,103500
+EMP-0547,North West,Data,Healthcare,Enterprise,Bachelor,Lead,4.5,2,74.2,4,0,33.0,62.3,101800
+EMP-0278,Scotland,Data,Technology,Small,Bachelor,Associate,1.4,1,75.3,1,0,39.0,22.4,66500
+EMP-0653,West Midlands,Software,Public sector,Large,Master,Mid,2.3,0,76.7,3,0,37.9,11.2,76900
+EMP-0128,London,Product,Healthcare,Large,Master,Mid,9.0,0,79.5,1,0,42.7,37.5,100600
+EMP-0335,London,Software,Education,Large,Master,Associate,1.3,3,90.1,4,0,32.2,40.5,66800
+EMP-0062,North West,People,Technology,Enterprise,Master,Associate,7.0,0,62.4,0,0,34.4,32.9,76000
+EMP-0515,South East,Data,Healthcare,Medium,Professional certification,Mid,5.5,3,72.5,4,0,35.3,39.1,92200
+EMP-0252,Yorkshire,Data,Healthcare,Small,Master,Associate,1.2,2,61.8,5,0,35.8,37.2,66500
+EMP-0488,South East,Operations,Financial services,Large,Apprenticeship,Associate,1.9,1,81.4,3,0,30.0,51.2,70800
+EMP-0010,North West,Operations,Financial services,Small,Master,Mid,3.5,2,88.7,3,0,35.3,2.2,85000
+EMP-0594,Wales,Data,Technology,Small,Master,Mid,2.1,0,68.1,0,0,41.3,29.8,72100
+EMP-0263,South East,Product,Healthcare,Large,Master,Associate,1.9,0,59.7,0,0,39.0,12.8,66400
+EMP-0139,Yorkshire,Software,Education,Medium,Apprenticeship,Mid,15.1,2,89.1,2,1,35.5,95.3,120300
+EMP-0376,London,Software,Financial services,Large,Apprenticeship,Mid,3.4,5,100.0,2,0,34.7,29.3,102400
+EMP-0249,North West,Operations,Education,Small,Master,Associate,0.5,3,71.5,3,0,44.4,51.0,58200
+EMP-0317,North West,Software,Financial services,Medium,Master,Mid,3.2,2,52.9,5,0,40.1,28.2,73600
+EMP-0628,London,Software,Retail,Large,Master,Associate,12.7,3,73.4,4,0,34.7,42.3,102100
+EMP-0223,West Midlands,Data,Public sector,Small,Bachelor,Associate,4.9,2,71.2,5,0,42.1,26.5,67900
+EMP-0426,Yorkshire,Software,Financial services,Medium,Bachelor,Mid,2.5,2,70.6,3,0,35.1,51.9,79800
+EMP-0149,North West,Data,Financial services,Small,Bachelor,Mid,2.0,1,70.7,0,0,37.6,31.3,74900
+EMP-0418,Yorkshire,Software,Technology,Enterprise,Apprenticeship,Mid,5.7,2,80.2,1,0,39.6,35.5,85400
+EMP-0446,West Midlands,Finance,Retail,Small,Bachelor,Associate,2.0,2,88.7,3,0,41.5,61.8,72300
+EMP-0502,Yorkshire,Data,Retail,Large,Master,Associate,1.1,0,65.3,4,0,47.0,0.0,69700
+EMP-0014,Yorkshire,Software,Technology,Medium,Apprenticeship,Mid,5.9,1,50.1,1,0,37.5,48.9,90600
+EMP-0402,South West,Data,Retail,Enterprise,Apprenticeship,Associate,3.6,1,65.0,1,0,38.2,52.8,64100
+EMP-0160,West Midlands,Operations,Financial services,Large,Bachelor,Mid,16.1,1,75.2,1,1,39.6,38.0,99400
+EMP-0329,Wales,Finance,Healthcare,Small,Master,Senior,5.9,1,71.6,0,1,33.4,84.6,87800
+EMP-0324,Scotland,Product,Public sector,Small,Bachelor,Associate,2.6,2,49.1,1,0,39.9,12.4,58600
+EMP-0516,London,Data,Retail,Medium,Master,Associate,4.2,1,57.5,3,0,35.5,53.4,83200
+EMP-0565,Wales,People,Technology,Large,Master,Associate,3.2,3,72.2,5,0,31.7,66.1,79900
+EMP-0485,London,Data,Public sector,Medium,Apprenticeship,Senior,3.4,0,73.3,5,0,34.0,17.4,89200
+EMP-0237,North West,Product,Education,Enterprise,Master,Senior,0.6,0,73.7,2,0,39.0,37.3,78700
+EMP-0141,Scotland,Product,Healthcare,Medium,Master,Associate,11.5,1,100.0,0,1,39.2,0.0,94600
+EMP-0443,West Midlands,Finance,Retail,Medium,Apprenticeship,Mid,4.4,0,76.9,4,0,30.0,16.1,60100
+EMP-0697,West Midlands,Operations,Education,Large,Bachelor,Associate,4.4,3,97.8,2,0,38.4,81.9,77000
+EMP-0306,North West,Software,Technology,Large,Master,Mid,3.2,3,75.3,0,0,39.2,23.5,90200
+EMP-0377,South West,Data,Financial services,Medium,Professional certification,Mid,15.1,3,85.8,4,1,35.8,47.2,119800
+EMP-0257,Yorkshire,Software,Education,Enterprise,Master,Senior,14.8,0,89.3,2,0,42.5,25.2,113100
+EMP-0430,Yorkshire,Finance,Technology,Large,Master,Mid,8.3,2,72.6,5,0,36.3,54.8,90500
+EMP-0436,South East,Data,Technology,Enterprise,Bachelor,Senior,5.9,1,77.3,5,0,33.4,58.3,95400
+EMP-0578,Wales,Data,Public sector,Large,Bachelor,Associate,4.7,1,72.7,0,0,36.6,11.9,75500
+EMP-0450,Wales,Data,Technology,Medium,Bachelor,Mid,5.3,0,44.8,1,1,40.5,82.2,76200
+EMP-0274,Wales,Data,Retail,Enterprise,Professional certification,Lead,4.2,0,65.5,2,0,33.5,63.3,82400
+EMP-0061,West Midlands,Software,Retail,Large,Apprenticeship,Lead,3.8,1,73.3,2,0,33.3,61.4,96300
+EMP-0545,London,Operations,Education,Large,Bachelor,Mid,4.6,1,80.0,0,0,39.0,43.4,88200
+EMP-0568,London,Software,Education,Medium,Bachelor,Mid,6.3,1,76.1,1,1,30.0,49.2,94500
+EMP-0524,Wales,Data,Technology,Small,Bachelor,Associate,7.9,2,81.5,0,0,35.0,27.5,82700
+EMP-0099,London,Operations,Financial services,Small,Master,Associate,4.4,0,62.8,5,0,35.6,4.5,78300
+EMP-0236,Yorkshire,Finance,Healthcare,Large,Master,Mid,4.8,1,81.5,3,0,39.4,65.3,75600
+EMP-0438,Scotland,Data,Healthcare,Medium,Apprenticeship,Mid,17.0,1,82.2,1,1,37.2,38.4,106800
+EMP-0240,London,Operations,Technology,Large,Bachelor,Mid,2.3,3,98.6,4,0,32.9,79.3,92600
+EMP-0480,North West,Product,Education,Large,Apprenticeship,Mid,14.3,0,73.3,3,1,38.2,29.4,105600
+EMP-0719,West Midlands,People,Financial services,Large,Bachelor,Associate,5.1,1,82.6,5,0,38.2,12.2,82200
+EMP-0192,South East,Finance,Healthcare,Large,Bachelor,Mid,3.9,1,81.7,0,0,39.7,18.0,82700
+EMP-0154,Scotland,Software,Public sector,Enterprise,Bachelor,Associate,5.9,1,70.6,1,0,32.0,32.9,72100
+EMP-0558,Scotland,Data,Education,Large,Bachelor,Senior,3.4,2,84.0,3,0,42.0,38.2,86900
+EMP-0479,Wales,Software,Financial services,Enterprise,Professional certification,Lead,5.3,1,65.7,4,0,30.0,46.7,98000
+EMP-0560,Scotland,Operations,Retail,Small,Bachelor,Associate,9.6,2,67.4,2,0,41.2,30.3,70900
+EMP-0468,South West,People,Public sector,Large,Bachelor,Mid,4.4,3,75.2,3,0,32.8,66.8,73400
+EMP-0169,South East,Data,Financial services,Medium,Bachelor,Mid,8.4,1,76.1,0,1,42.8,8.3,101100
+EMP-0404,London,Data,Public sector,Small,Master,Associate,8.4,3,99.7,1,1,30.5,51.4,98200
+EMP-0573,Scotland,Operations,Healthcare,Medium,Master,Mid,5.6,3,61.8,2,0,33.7,58.4,74500
+EMP-0075,London,Data,Financial services,Enterprise,Bachelor,Associate,5.4,0,85.8,4,0,43.2,13.4,88000
+EMP-0390,Yorkshire,Data,Technology,Enterprise,Bachelor,Associate,2.0,1,68.5,4,0,40.0,64.3,79800
+EMP-0305,Yorkshire,Operations,Education,Large,Professional certification,Associate,6.7,3,100.0,4,0,38.7,51.6,74800
+EMP-0569,North West,Software,Education,Medium,Bachelor,Lead,3.7,1,60.7,0,0,39.2,3.2,88900
+EMP-0709,North West,Product,Education,Large,Master,Senior,2.8,0,65.6,4,0,40.5,25.3,80800
+EMP-0706,Scotland,Software,Financial services,Small,Master,Senior,7.7,1,95.8,5,0,36.0,38.3,97300
+EMP-0301,Yorkshire,Finance,Financial services,Large,Bachelor,Senior,3.7,1,87.5,1,0,41.5,31.8,99800
+EMP-0297,South West,Product,Education,Small,Bachelor,Associate,5.5,0,90.2,1,0,40.2,19.6,69200
+EMP-0129,London,Data,Education,Small,Master,Associate,4.0,0,75.0,2,0,34.9,23.1,77000
+EMP-0065,Wales,People,Retail,Large,Apprenticeship,Senior,5.6,5,77.0,1,0,34.1,73.8,75300
+EMP-0230,London,Software,Financial services,Large,Apprenticeship,Lead,9.2,4,100.0,4,1,37.0,76.5,127500
+EMP-0064,West Midlands,Operations,Financial services,Large,Bachelor,Lead,2.9,0,80.9,3,0,37.6,11.4,83600
+EMP-0467,Wales,Software,Education,Large,Apprenticeship,Associate,7.0,0,93.1,1,1,38.6,40.4,81300
+EMP-0705,South East,Software,Retail,Medium,Apprenticeship,Associate,1.2,0,57.6,5,0,30.0,30.0,60300
+EMP-0250,North West,Data,Retail,Medium,Professional certification,Mid,6.4,1,67.5,4,1,35.1,56.4,88200
+EMP-0369,South East,Operations,Public sector,Medium,Apprenticeship,Associate,8.3,1,89.2,5,1,30.9,44.5,80700
+EMP-0229,Wales,Finance,Technology,Large,Bachelor,Associate,2.2,4,69.6,4,0,38.5,91.5,72600
+EMP-0194,Yorkshire,People,Retail,Small,Apprenticeship,Associate,2.5,1,79.4,5,0,36.3,32.2,57200
+EMP-0111,North West,Operations,Healthcare,Small,Apprenticeship,Associate,2.6,2,79.7,3,0,37.8,57.6,67600
+EMP-0295,Yorkshire,Software,Technology,Enterprise,Apprenticeship,Mid,18.9,1,98.9,5,0,39.1,37.8,127500
+EMP-0633,London,Software,Public sector,Large,Bachelor,Associate,3.2,2,86.0,4,0,36.1,12.2,88800
+EMP-0071,South East,Data,Public sector,Medium,Master,Lead,7.4,2,84.0,1,0,31.0,21.8,99900
+EMP-0627,Yorkshire,Software,Technology,Small,Master,Mid,4.8,2,70.2,4,0,37.8,48.3,91000
+EMP-0352,London,Operations,Financial services,Small,Bachelor,Associate,0.1,0,67.3,0,0,32.5,42.1,66600
+EMP-0683,London,People,Healthcare,Small,Professional certification,Associate,6.2,1,88.6,3,0,39.5,34.9,86500
+EMP-0656,North West,Data,Public sector,Large,Apprenticeship,Mid,7.6,4,74.6,5,1,42.0,81.1,97600
+EMP-0307,North West,People,Retail,Large,Bachelor,Mid,6.2,1,92.2,0,1,35.7,40.2,79600
+EMP-0630,Yorkshire,Data,Healthcare,Large,Bachelor,Mid,2.7,0,71.1,5,0,39.7,40.1,75600
+EMP-0245,Wales,People,Healthcare,Enterprise,Apprenticeship,Mid,8.2,0,81.7,0,0,37.4,16.5,78300
+EMP-0505,Scotland,Data,Retail,Medium,Bachelor,Associate,2.3,3,94.9,5,0,30.0,25.3,75100
+EMP-0262,Yorkshire,Finance,Healthcare,Medium,Apprenticeship,Mid,5.4,0,94.7,5,1,38.5,39.5,81100
+EMP-0189,West Midlands,Software,Public sector,Enterprise,Bachelor,Senior,5.5,1,71.0,4,1,36.9,25.4,100300
+EMP-0420,South West,Product,Retail,Medium,Apprenticeship,Associate,7.6,2,93.2,4,0,38.6,51.1,82400
+EMP-0425,Wales,Software,Public sector,Enterprise,Bachelor,Associate,6.3,2,59.7,1,0,36.5,17.2,82000
+EMP-0054,West Midlands,Finance,Healthcare,Large,Master,Mid,7.7,2,78.1,4,1,40.7,24.6,95300
+EMP-0424,London,Finance,Financial services,Small,Bachelor,Mid,7.6,2,88.8,3,0,35.8,59.2,98200
+EMP-0396,North West,Data,Technology,Enterprise,Bachelor,Associate,4.0,3,80.5,3,0,34.5,53.5,75600
+EMP-0717,Scotland,Data,Healthcare,Small,Professional certification,Lead,6.5,1,73.8,0,0,36.1,46.2,97200
+EMP-0456,London,Product,Financial services,Large,Master,Mid,1.3,2,68.6,4,0,33.0,66.7,93000
+EMP-0023,South West,Finance,Technology,Large,Bachelor,Associate,2.8,3,97.9,5,0,37.3,43.8,84800
+EMP-0587,London,Operations,Education,Enterprise,Bachelor,Associate,4.5,1,66.4,3,0,33.3,23.9,78800
+EMP-0143,South West,Finance,Healthcare,Medium,Bachelor,Senior,3.1,3,76.1,1,0,37.0,61.7,91100
+EMP-0253,North West,Data,Retail,Medium,Professional certification,Senior,1.8,1,66.4,2,0,37.7,12.5,82600
+EMP-0180,West Midlands,Operations,Financial services,Medium,Master,Senior,2.8,2,66.5,5,0,37.4,53.8,90200
+EMP-0720,South West,People,Education,Medium,Bachelor,Mid,2.6,3,61.0,0,0,34.3,29.6,47600
+EMP-0203,Scotland,Operations,Financial services,Enterprise,Bachelor,Associate,6.2,1,89.0,3,0,36.7,22.3,80900
+EMP-0618,North West,Operations,Healthcare,Large,Apprenticeship,Mid,6.6,1,50.2,0,1,30.6,31.5,77800
+EMP-0290,London,Software,Education,Medium,Bachelor,Mid,1.9,1,60.7,3,0,38.7,30.7,81300
+EMP-0116,Yorkshire,Operations,Education,Medium,Bachelor,Mid,2.6,4,76.1,0,0,37.6,59.5,70500
+EMP-0423,London,Finance,Education,Medium,Master,Senior,0.9,3,61.6,3,0,37.5,24.8,83900
+EMP-0066,Scotland,Software,Public sector,Enterprise,Bachelor,Associate,5.7,2,81.7,0,0,35.0,41.9,82500
+EMP-0391,Wales,Data,Public sector,Small,Master,Associate,3.0,2,59.8,4,0,39.5,65.1,66100
+EMP-0282,London,Software,Technology,Medium,Bachelor,Senior,4.5,0,62.2,5,0,39.0,46.8,99900
+EMP-0549,West Midlands,Operations,Retail,Small,Master,Associate,5.0,0,72.7,4,1,34.2,21.5,62800
+EMP-0667,Yorkshire,Product,Healthcare,Enterprise,Master,Senior,6.7,1,88.1,1,1,33.8,36.2,102500
+EMP-0272,London,Product,Financial services,Medium,Apprenticeship,Mid,11.3,0,81.3,5,1,31.5,42.5,105900
+EMP-0473,London,Finance,Public sector,Large,Bachelor,Lead,4.7,1,48.6,5,0,37.7,28.1,84500
+EMP-0531,West Midlands,Data,Public sector,Large,Professional certification,Lead,3.7,0,76.4,5,0,40.2,7.9,91200
+EMP-0320,South West,Data,Financial services,Medium,Apprenticeship,Mid,12.4,0,86.8,2,1,37.1,18.6,98300
+EMP-0412,West Midlands,Operations,Healthcare,Medium,Bachelor,Associate,12.5,0,70.2,3,1,36.9,29.9,84200
+EMP-0409,London,Operations,Financial services,Small,Bachelor,Associate,5.7,0,75.0,4,0,33.0,33.0,69300
+EMP-0596,South East,Product,Financial services,Enterprise,Master,Mid,6.3,0,64.3,5,1,37.3,10.7,94500
+EMP-0666,West Midlands,Data,Education,Large,Apprenticeship,Mid,2.0,0,79.8,0,0,40.7,16.5,68800
+EMP-0544,South West,People,Healthcare,Medium,Professional certification,Associate,11.1,2,76.4,2,1,49.5,0.0,95100
+EMP-0233,South West,Software,Public sector,Medium,Master,Mid,12.0,0,94.2,0,1,40.3,22.4,104000
+EMP-0609,West Midlands,Software,Healthcare,Medium,Master,Associate,6.3,3,88.2,1,0,39.2,39.9,86500
+EMP-0687,North West,People,Healthcare,Large,Apprenticeship,Mid,1.1,3,61.2,2,0,35.6,41.0,65100
+EMP-0379,North West,Finance,Education,Medium,Bachelor,Associate,12.8,1,75.8,1,0,33.9,51.1,89100
+EMP-0055,West Midlands,Data,Retail,Enterprise,Bachelor,Mid,5.9,2,88.4,4,0,37.0,11.6,93200
+EMP-0368,West Midlands,Product,Public sector,Medium,Professional certification,Associate,6.1,1,83.0,4,1,42.6,23.3,79400
+EMP-0533,North West,Data,Financial services,Enterprise,Master,Mid,1.4,0,62.1,5,0,32.5,15.5,70800
+EMP-0047,North West,Data,Education,Medium,Apprenticeship,Mid,4.0,1,46.7,1,0,38.2,34.7,67000
+EMP-0708,Yorkshire,Data,Retail,Enterprise,Bachelor,Associate,2.9,2,87.8,2,0,35.2,53.6,79400
+EMP-0205,London,Data,Healthcare,Small,Bachelor,Senior,7.8,2,71.7,0,1,35.8,21.1,103700
+EMP-0509,Scotland,People,Financial services,Large,Bachelor,Associate,2.0,1,75.9,3,0,36.2,14.1,68200
+EMP-0133,Wales,Finance,Public sector,Large,Master,Senior,11.1,1,83.8,0,0,38.3,30.2,110000
+EMP-0521,Yorkshire,Finance,Retail,Small,Bachelor,Lead,5.8,1,81.5,5,0,41.5,2.1,107700
+EMP-0359,Scotland,Operations,Technology,Medium,Bachelor,Lead,3.3,3,79.7,1,0,36.2,61.5,85000
+EMP-0049,West Midlands,Data,Financial services,Medium,Master,Associate,2.9,3,72.9,5,0,36.4,32.8,76000
+EMP-0135,Wales,Data,Healthcare,Large,Bachelor,Mid,4.2,0,76.3,2,0,38.4,37.0,79000
+EMP-0284,South East,Data,Financial services,Small,Bachelor,Mid,5.4,0,73.6,1,0,43.4,26.8,78800
+EMP-0279,Yorkshire,People,Retail,Medium,Master,Mid,2.1,0,48.3,3,0,38.1,8.0,52600
+EMP-0056,Yorkshire,Finance,Financial services,Enterprise,Bachelor,Lead,3.6,2,86.0,3,0,35.8,38.9,102100
+EMP-0546,North West,Finance,Technology,Small,Bachelor,Senior,9.6,1,79.4,5,1,34.9,2.1,101200
+EMP-0442,London,Operations,Public sector,Small,Professional certification,Associate,3.9,3,80.2,2,0,43.6,52.9,72200
+EMP-0142,Scotland,Product,Public sector,Medium,Bachelor,Senior,2.4,0,68.7,3,0,36.3,1.2,64800
+EMP-0494,South East,Software,Education,Medium,Master,Mid,4.6,2,81.8,5,0,31.9,40.3,82400
+EMP-0621,Yorkshire,Data,Public sector,Small,Bachelor,Mid,2.3,5,57.7,0,0,33.9,47.5,53500
+EMP-0351,Wales,Finance,Technology,Large,Bachelor,Senior,6.6,1,73.5,5,0,44.3,53.2,98000
+EMP-0121,Wales,Data,Retail,Medium,Master,Associate,2.9,1,78.1,3,0,33.6,27.5,63100
+EMP-0109,London,Finance,Technology,Enterprise,Bachelor,Senior,3.4,3,70.7,2,0,35.7,50.8,92800
+EMP-0680,North West,Software,Healthcare,Enterprise,Professional certification,Mid,10.0,1,73.2,5,1,43.0,42.5,111600
+EMP-0382,South West,Software,Healthcare,Enterprise,Professional certification,Associate,4.6,2,86.3,2,0,43.8,55.2,78700
+EMP-0671,London,People,Healthcare,Medium,Bachelor,Mid,4.0,1,81.8,5,0,45.8,46.9,85900
+EMP-0004,West Midlands,People,Public sector,Large,Bachelor,Associate,6.2,1,77.1,1,0,32.4,21.3,64800
+EMP-0548,London,People,Technology,Enterprise,Bachelor,Associate,9.6,3,82.4,4,1,36.4,69.3,103800
+EMP-0102,West Midlands,Operations,Public sector,Small,Professional certification,Senior,1.7,3,75.9,5,0,33.6,78.2,67400
+EMP-0700,South East,People,Public sector,Medium,Bachelor,Associate,6.6,5,92.4,2,0,43.8,70.2,83500
+EMP-0210,Scotland,Product,Healthcare,Large,Professional certification,Senior,2.7,1,94.8,2,0,37.8,18.4,94000
+EMP-0328,Scotland,Product,Retail,Medium,Apprenticeship,Mid,7.9,0,77.7,4,0,37.1,50.6,78400
+EMP-0053,Yorkshire,Operations,Public sector,Large,Master,Mid,5.9,1,88.4,0,0,36.3,32.8,78000
+EMP-0018,London,Software,Education,Medium,Bachelor,Associate,2.0,1,78.9,2,0,34.3,47.0,72700
+EMP-0347,South West,Software,Education,Small,Bachelor,Mid,6.0,3,71.3,5,0,41.8,64.6,85400
+EMP-0147,South East,Finance,Public sector,Medium,Professional certification,Mid,1.5,0,86.1,0,0,37.1,43.3,65800
+EMP-0051,London,Software,Financial services,Medium,Apprenticeship,Mid,5.6,3,83.6,2,0,42.3,42.3,95000
+EMP-0654,South East,Finance,Technology,Large,Professional certification,Mid,0.8,0,67.4,5,0,43.4,0.0,76900
+EMP-0156,West Midlands,Finance,Technology,Enterprise,Bachelor,Senior,5.0,3,81.5,4,0,39.9,52.5,96400
+EMP-0224,South West,Software,Healthcare,Medium,Master,Associate,4.6,2,65.0,2,1,35.2,31.8,77300
+EMP-0464,South East,Data,Education,Small,Bachelor,Mid,5.9,2,62.8,5,0,36.5,5.2,78600
+EMP-0674,West Midlands,Data,Retail,Large,Master,Mid,4.0,4,50.9,2,0,41.7,53.3,72700
+EMP-0366,North West,Product,Retail,Medium,Bachelor,Associate,12.1,2,68.0,3,0,35.7,51.2,88300
+EMP-0466,West Midlands,Finance,Retail,Small,Bachelor,Associate,4.8,1,61.8,4,0,33.5,57.4,65700
+EMP-0218,London,Data,Financial services,Small,Bachelor,Senior,2.7,1,57.0,5,0,45.5,10.2,87900
+EMP-0712,West Midlands,Operations,Financial services,Medium,Apprenticeship,Lead,1.2,0,62.0,4,0,44.8,33.3,90500
+EMP-0588,South East,Product,Financial services,Small,Master,Associate,1.3,1,87.2,5,0,38.1,9.0,76200
+EMP-0612,West Midlands,Operations,Education,Enterprise,Professional certification,Associate,5.1,3,74.9,5,0,34.4,22.8,68100
+EMP-0031,West Midlands,Software,Public sector,Medium,Bachelor,Lead,9.5,1,79.8,3,0,37.9,19.3,106000
+EMP-0026,London,Operations,Technology,Small,Bachelor,Associate,7.3,3,92.1,3,0,39.4,106.2,98000
+EMP-0593,South East,Operations,Retail,Medium,Master,Mid,11.0,1,77.8,0,0,36.6,46.8,84700
+EMP-0691,South East,Finance,Retail,Enterprise,Bachelor,Mid,4.1,2,59.3,3,0,31.0,49.8,76900
+EMP-0118,West Midlands,People,Healthcare,Large,Bachelor,Mid,0.4,0,87.7,2,0,42.1,33.0,63000
+EMP-0271,London,Operations,Retail,Enterprise,Master,Lead,4.5,2,77.4,4,0,31.6,11.7,103000
+EMP-0117,West Midlands,Product,Financial services,Large,Bachelor,Mid,3.6,0,66.3,2,0,41.1,9.9,81100
+EMP-0413,London,Data,Financial services,Enterprise,Bachelor,Associate,2.9,1,67.8,3,0,39.5,21.9,72000
+EMP-0452,Yorkshire,Product,Technology,Large,Master,Mid,5.3,2,88.8,2,0,31.7,32.0,87400
+EMP-0582,Scotland,Operations,Technology,Medium,Bachelor,Mid,9.4,0,76.4,3,0,38.7,3.6,87800
+EMP-0028,London,Software,Technology,Medium,Bachelor,Senior,1.4,1,100.0,5,0,40.1,25.8,107400
+EMP-0126,Scotland,Finance,Healthcare,Small,Professional certification,Associate,2.1,4,99.7,5,0,42.4,43.0,89400
+EMP-0052,London,Operations,Retail,Enterprise,Bachelor,Senior,2.8,1,87.5,0,0,33.9,55.9,98400
+EMP-0550,North West,Operations,Financial services,Small,Bachelor,Mid,7.1,3,97.2,3,0,39.1,57.4,89500
+EMP-0472,North West,Software,Technology,Large,Master,Senior,6.2,6,97.4,0,1,43.3,73.2,109800
+EMP-0201,Yorkshire,Data,Healthcare,Enterprise,Bachelor,Associate,9.8,3,94.8,1,1,35.4,27.0,100700
+EMP-0286,North West,Software,Healthcare,Medium,Bachelor,Mid,8.0,0,70.2,3,1,36.3,49.9,91000
+EMP-0643,London,Operations,Retail,Medium,Apprenticeship,Senior,1.0,1,85.8,3,0,36.0,0.4,74500
+EMP-0474,London,People,Retail,Enterprise,Bachelor,Senior,3.3,0,64.6,5,0,38.2,47.2,84100
+EMP-0665,North West,People,Public sector,Medium,Apprenticeship,Mid,4.7,2,85.6,2,0,41.5,23.2,74000
+EMP-0647,London,Data,Public sector,Small,Apprenticeship,Lead,4.9,0,57.5,4,0,37.8,15.8,81300
+EMP-0575,Yorkshire,Software,Retail,Medium,Bachelor,Mid,2.5,2,74.4,4,0,35.8,52.5,67800
+EMP-0455,London,Operations,Public sector,Enterprise,Bachelor,Senior,2.1,0,33.9,4,0,36.9,5.4,73300
+EMP-0059,London,Product,Technology,Medium,Apprenticeship,Mid,10.0,0,70.4,4,0,35.9,39.5,89000
+EMP-0243,South East,Data,Healthcare,Large,Apprenticeship,Senior,5.0,1,83.1,0,0,42.4,32.6,98200
+EMP-0025,Yorkshire,Operations,Education,Large,Bachelor,Associate,3.7,1,97.3,4,0,36.8,59.4,69300
+EMP-0626,North West,Operations,Technology,Large,Master,Associate,4.1,2,83.7,0,0,40.8,41.7,81500
+EMP-0193,London,People,Financial services,Medium,Bachelor,Lead,6.5,0,73.7,4,0,41.6,26.5,99600
+EMP-0098,London,Operations,Technology,Medium,Master,Senior,2.5,1,67.8,5,0,40.4,2.3,98500
+EMP-0675,Wales,Finance,Healthcare,Medium,Master,Mid,2.1,3,72.5,5,0,36.2,75.5,83800
+EMP-0510,London,Data,Retail,Enterprise,Bachelor,Associate,8.6,3,67.0,5,1,39.8,48.7,99600
+EMP-0657,Yorkshire,Operations,Public sector,Large,Master,Associate,3.4,0,53.2,5,0,34.9,67.0,66500
+EMP-0528,South West,Data,Education,Small,Master,Associate,10.0,4,83.4,1,1,45.9,81.3,100900
+EMP-0308,Wales,Software,Healthcare,Enterprise,Bachelor,Lead,4.6,3,99.0,1,0,44.1,20.2,105300
+EMP-0552,London,Software,Retail,Enterprise,Professional certification,Associate,5.6,1,88.6,1,0,35.9,40.4,87800
+EMP-0024,South West,Data,Education,Large,Bachelor,Mid,6.2,0,80.5,3,1,46.2,27.1,86900
+EMP-0603,South West,Data,Retail,Large,Bachelor,Mid,3.8,0,49.7,5,0,39.3,5.8,74600
+EMP-0483,Wales,Finance,Public sector,Medium,Bachelor,Senior,11.6,1,67.0,5,0,35.2,42.4,90100
+EMP-0408,Yorkshire,Product,Financial services,Medium,Bachelor,Mid,6.9,3,93.8,1,0,32.1,78.3,83600
+EMP-0155,London,Product,Public sector,Enterprise,Bachelor,Senior,2.5,1,75.5,3,0,39.7,71.7,110400
+EMP-0619,London,Finance,Public sector,Small,Master,Mid,9.3,2,97.8,2,0,35.2,11.0,93200
+EMP-0221,South East,Software,Healthcare,Large,Apprenticeship,Mid,5.9,0,67.9,2,0,40.8,53.5,88500
+EMP-0673,South West,Data,Technology,Large,Bachelor,Senior,1.7,1,69.0,3,0,37.3,33.7,78300
+EMP-0384,North West,Finance,Technology,Small,Professional certification,Senior,6.2,0,68.6,3,0,35.6,47.7,87900
+EMP-0617,West Midlands,Data,Public sector,Medium,Master,Senior,1.5,2,88.2,4,0,38.9,37.8,82600
+EMP-0067,Scotland,Finance,Education,Enterprise,Bachelor,Associate,11.4,2,98.3,2,1,33.8,29.7,101400
+EMP-0566,West Midlands,People,Retail,Large,Bachelor,Associate,1.2,1,70.7,4,0,34.3,46.4,62700
+EMP-0365,West Midlands,People,Retail,Enterprise,Bachelor,Lead,4.1,2,80.7,5,0,35.7,43.0,84900
+EMP-0003,Yorkshire,Data,Education,Small,Bachelor,Senior,1.7,1,91.9,5,0,36.5,14.1,68900
+EMP-0512,Yorkshire,Operations,Education,Small,Apprenticeship,Mid,3.1,1,61.4,5,0,36.8,9.2,56200
+EMP-0698,Wales,Operations,Technology,Medium,Apprenticeship,Mid,13.1,2,82.5,5,0,34.1,77.8,102700
+EMP-0688,South West,Data,Public sector,Enterprise,Apprenticeship,Senior,15.5,1,100.0,2,0,30.6,23.4,107700
+EMP-0083,Yorkshire,Finance,Technology,Medium,Bachelor,Mid,16.7,1,98.6,4,1,39.6,33.7,115600
+EMP-0689,West Midlands,Finance,Retail,Small,Apprenticeship,Associate,4.0,1,87.5,0,0,32.9,40.5,63400
+EMP-0718,London,Operations,Education,Medium,Bachelor,Lead,6.0,3,90.3,1,0,37.4,33.4,95400
+EMP-0039,South East,Data,Technology,Large,Bachelor,Associate,4.5,1,48.5,2,0,36.6,61.5,70100
+EMP-0465,Wales,Data,Education,Large,Apprenticeship,Associate,1.2,1,49.0,4,0,38.8,30.6,61700
+EMP-0011,North West,Software,Public sector,Medium,Bachelor,Lead,2.7,2,59.2,3,0,40.7,50.4,72600
+EMP-0493,West Midlands,Operations,Financial services,Large,Master,Mid,1.2,3,79.7,0,0,31.8,16.1,70700
+EMP-0033,South East,Software,Healthcare,Medium,Master,Mid,6.5,2,70.2,4,1,38.6,40.9,94600
+EMP-0319,South East,Software,Technology,Small,Bachelor,Mid,7.9,1,73.7,2,0,36.5,36.0,91000
+EMP-0471,North West,Software,Public sector,Large,Master,Senior,3.4,2,53.9,1,0,33.6,31.4,81200
+EMP-0358,Yorkshire,Operations,Technology,Medium,Bachelor,Senior,2.3,5,88.7,2,0,39.1,40.5,95000
+EMP-0644,South East,Data,Financial services,Large,Master,Mid,12.3,1,94.7,2,1,34.2,59.0,114700
+EMP-0371,West Midlands,Software,Healthcare,Medium,Apprenticeship,Mid,14.4,2,86.6,5,0,37.1,34.7,99700
+EMP-0490,Scotland,Software,Public sector,Medium,Master,Senior,0.7,1,75.9,0,0,42.5,32.1,75900
+EMP-0273,London,Finance,Financial services,Medium,Master,Lead,7.7,3,74.5,0,1,39.7,43.5,121700
+EMP-0695,South West,Data,Technology,Enterprise,Apprenticeship,Mid,4.0,1,49.2,0,0,45.1,26.9,81100
+EMP-0090,Scotland,People,Education,Medium,Bachelor,Associate,8.4,3,78.1,5,0,36.8,43.7,86600
+EMP-0214,Yorkshire,Product,Financial services,Medium,Bachelor,Associate,5.0,1,80.0,1,1,42.5,28.9,86000
+EMP-0459,Yorkshire,Data,Technology,Small,Master,Associate,7.3,1,88.8,5,0,37.2,36.4,85600
+EMP-0389,London,People,Public sector,Medium,Professional certification,Mid,1.7,3,66.7,1,0,33.2,62.0,70200
+EMP-0008,Yorkshire,Data,Public sector,Medium,Professional certification,Senior,10.2,2,88.9,4,1,36.2,44.2,116000
+EMP-0625,South West,People,Public sector,Enterprise,Master,Lead,3.9,0,71.1,0,0,39.6,11.6,80400
+EMP-0564,Wales,Operations,Financial services,Enterprise,Master,Associate,6.2,3,81.6,1,0,42.8,51.6,92000
+EMP-0188,London,Data,Retail,Large,Bachelor,Senior,2.0,2,55.2,3,0,36.5,49.4,85500
+EMP-0511,London,Data,Financial services,Enterprise,Master,Associate,6.7,2,76.3,5,0,42.7,39.6,99400
+EMP-0041,North West,Product,Financial services,Small,Bachelor,Mid,4.5,0,77.4,1,0,42.7,72.3,87800
+EMP-0322,Scotland,Product,Technology,Small,Bachelor,Mid,7.1,0,91.5,5,0,33.5,47.7,86600
+EMP-0173,South East,Software,Retail,Large,Master,Mid,4.9,3,87.8,4,0,30.0,94.2,97300
+EMP-0650,London,Software,Public sector,Large,Bachelor,Associate,2.9,2,70.1,5,0,39.0,33.2,82000
+EMP-0241,Yorkshire,Operations,Education,Medium,Master,Mid,6.2,0,79.9,3,0,34.8,4.2,67300
+EMP-0542,Scotland,Software,Retail,Small,Bachelor,Senior,3.9,0,40.7,5,0,36.8,8.0,82000
+EMP-0526,North West,Software,Healthcare,Enterprise,Professional certification,Senior,2.6,0,79.6,5,0,39.9,38.0,90400
+EMP-0378,North West,Finance,Financial services,Enterprise,Bachelor,Associate,2.8,4,56.1,4,0,37.2,65.8,74400
+EMP-0685,Wales,Data,Retail,Enterprise,Professional certification,Associate,3.9,0,63.5,0,0,36.6,7.8,60800
+EMP-0246,Yorkshire,Operations,Technology,Small,Professional certification,Senior,3.4,4,67.2,1,0,30.0,24.3,80500
+EMP-0057,North West,Operations,Retail,Medium,Master,Senior,2.5,0,69.5,3,0,41.0,7.2,76100
+EMP-0309,South East,Product,Public sector,Medium,Master,Associate,5.5,1,63.2,5,0,39.0,17.5,85400
+EMP-0072,North West,Software,Education,Medium,Professional certification,Lead,5.3,0,88.2,4,0,39.0,36.3,96400
+EMP-0537,Scotland,Product,Education,Enterprise,Bachelor,Mid,13.3,1,65.8,4,0,39.5,54.6,97800
+EMP-0146,South East,People,Education,Enterprise,Master,Mid,1.5,2,92.0,4,0,36.6,65.0,74900
+EMP-0091,London,Data,Education,Medium,Professional certification,Lead,6.2,1,59.3,3,1,37.0,49.2,102500
+EMP-0167,Yorkshire,Software,Retail,Large,Bachelor,Mid,16.1,0,99.2,1,1,40.1,24.5,127500
+EMP-0655,Yorkshire,People,Public sector,Large,Master,Senior,9.0,1,56.6,3,0,35.3,19.8,88100
+EMP-0171,South East,Software,Technology,Medium,Professional certification,Mid,5.8,1,85.8,2,0,37.1,20.5,88400
+EMP-0636,London,Data,Technology,Enterprise,Bachelor,Mid,2.2,0,63.7,4,0,31.0,33.9,84400
+EMP-0710,North West,Software,Technology,Large,Bachelor,Associate,5.1,3,78.8,0,0,41.7,56.4,83700
+EMP-0244,Scotland,Data,Education,Enterprise,Bachelor,Mid,2.0,0,52.5,3,0,38.8,4.7,59400
+EMP-0088,North West,Data,Financial services,Small,Bachelor,Senior,4.2,1,76.5,5,0,34.6,21.6,93400
+EMP-0215,West Midlands,Product,Technology,Medium,Bachelor,Lead,3.9,0,43.8,4,0,42.4,47.9,88900
+EMP-0174,South West,Data,Healthcare,Medium,Professional certification,Associate,10.1,2,88.6,2,0,36.4,24.7,88500
+EMP-0292,London,Operations,Technology,Enterprise,Master,Associate,4.7,1,44.0,0,0,42.3,0.0,71800
+EMP-0554,South West,Operations,Healthcare,Large,Master,Associate,3.5,1,81.5,0,0,34.9,47.2,67800
+EMP-0119,North West,Software,Healthcare,Large,Master,Mid,11.6,2,90.4,1,0,36.8,38.2,93300
+EMP-0120,Wales,Operations,Education,Enterprise,Bachelor,Mid,6.9,0,86.6,1,1,40.4,18.1,86400
+EMP-0613,South West,Operations,Healthcare,Medium,Apprenticeship,Mid,7.5,1,87.8,2,0,32.9,24.3,82300
+EMP-0635,London,Finance,Financial services,Large,Bachelor,Lead,5.7,0,63.3,3,1,34.0,16.2,108900
+EMP-0591,South West,Software,Financial services,Large,Bachelor,Mid,2.5,3,93.0,5,0,35.6,58.1,91200
+EMP-0372,South East,Operations,Retail,Medium,Professional certification,Associate,4.9,1,77.1,5,0,33.9,34.5,66800
+EMP-0460,Wales,Data,Technology,Medium,Master,Mid,7.6,2,77.1,1,1,32.1,62.6,87300
+EMP-0163,South East,People,Financial services,Large,Bachelor,Mid,2.4,0,57.5,3,0,36.7,34.8,73200
+EMP-0115,London,Product,Retail,Small,Bachelor,Mid,6.9,2,89.8,2,1,37.7,34.6,92100
+EMP-0159,West Midlands,Operations,Financial services,Enterprise,Master,Mid,3.6,3,86.1,1,0,38.2,52.9,86000
+EMP-0151,Yorkshire,Product,Retail,Enterprise,Bachelor,Associate,7.1,3,82.0,1,0,33.3,63.8,86600
+EMP-0334,Yorkshire,Data,Technology,Enterprise,Bachelor,Mid,5.8,1,70.2,0,1,36.1,33.5,86400
+EMP-0532,West Midlands,Data,Technology,Medium,Apprenticeship,Lead,5.4,1,80.4,1,0,43.7,66.6,99700
+EMP-0032,South West,Software,Public sector,Enterprise,Bachelor,Mid,5.5,1,88.2,5,0,35.5,13.3,81500
+EMP-0577,South West,Data,Retail,Enterprise,Apprenticeship,Mid,1.4,6,90.4,0,0,34.9,65.8,80900
+EMP-0021,West Midlands,Data,Education,Enterprise,Bachelor,Associate,1.5,1,83.5,2,0,42.9,35.6,70400
+EMP-0114,Wales,Product,Technology,Large,Master,Associate,6.3,2,67.4,2,0,30.0,26.2,73000
+EMP-0504,Scotland,Operations,Technology,Medium,Bachelor,Mid,2.4,2,56.4,4,0,35.3,64.2,64200
+EMP-0001,Yorkshire,Operations,Public sector,Large,Bachelor,Senior,6.9,6,93.0,0,0,33.6,61.8,95500
+EMP-0337,London,People,Public sector,Medium,Master,Senior,5.8,0,74.7,5,0,30.5,32.2,87000
+EMP-0601,North West,Operations,Retail,Large,Bachelor,Mid,2.0,0,66.4,4,0,34.6,27.9,62300
+EMP-0453,West Midlands,Software,Financial services,Medium,Apprenticeship,Associate,5.8,0,72.3,2,0,30.3,37.6,78500
+EMP-0259,London,Operations,Healthcare,Small,Bachelor,Mid,7.6,2,98.1,5,0,41.3,41.2,90500
+EMP-0692,South West,People,Technology,Medium,Master,Mid,2.7,2,59.0,0,0,36.5,24.4,64900
+EMP-0315,North West,Software,Retail,Small,Master,Associate,1.4,0,70.0,2,0,36.9,72.3,69200
+EMP-0608,London,Operations,Technology,Medium,Apprenticeship,Mid,10.2,5,100.0,5,1,40.4,75.2,116300
+EMP-0136,London,Software,Healthcare,Small,Professional certification,Mid,4.0,0,72.3,3,0,34.9,20.9,83600
+EMP-0458,North West,Software,Public sector,Large,Master,Associate,14.0,2,91.6,5,0,38.8,40.4,99500
+EMP-0005,London,Data,Healthcare,Large,Professional certification,Associate,5.9,1,71.0,4,0,37.4,15.3,91900
+EMP-0678,Scotland,People,Healthcare,Small,Apprenticeship,Mid,3.4,4,100.0,4,0,35.9,58.5,74600
+EMP-0325,Yorkshire,Data,Financial services,Medium,Bachelor,Lead,8.7,1,79.4,4,1,31.3,21.3,111800
+EMP-0331,West Midlands,Product,Technology,Medium,Bachelor,Senior,1.7,1,79.8,1,0,33.5,28.5,82100
+EMP-0345,Yorkshire,Software,Education,Medium,Bachelor,Senior,2.8,1,62.3,3,0,38.9,47.4,77600
+EMP-0340,South West,Product,Healthcare,Enterprise,Bachelor,Associate,2.2,3,92.4,3,0,40.3,48.1,76300
+EMP-0298,Yorkshire,Finance,Financial services,Medium,Bachelor,Mid,4.5,3,86.6,1,0,40.4,41.3,84700
+EMP-0081,West Midlands,Product,Technology,Large,Bachelor,Associate,7.0,2,85.7,2,0,37.1,30.7,93400
+EMP-0574,West Midlands,Software,Healthcare,Medium,Professional certification,Associate,1.1,1,81.3,0,0,35.7,36.4,69500
+EMP-0027,North West,Software,Education,Large,Professional certification,Associate,8.4,2,58.7,1,0,39.8,64.0,90800
+EMP-0432,Yorkshire,Finance,Healthcare,Large,Master,Mid,0.2,4,80.4,3,0,41.2,12.0,79000
+EMP-0217,London,People,Financial services,Medium,Bachelor,Lead,3.4,1,79.0,1,0,32.3,34.2,92700
+EMP-0534,Wales,Operations,Public sector,Small,Master,Senior,10.0,1,70.3,2,1,42.3,67.3,104600
+EMP-0344,Wales,Operations,Retail,Enterprise,Apprenticeship,Senior,8.9,1,62.3,1,1,30.0,14.2,90800
+EMP-0380,West Midlands,Data,Healthcare,Enterprise,Bachelor,Lead,2.1,2,40.9,3,0,43.0,43.9,93300
+EMP-0670,North West,Data,Education,Medium,Bachelor,Senior,1.8,0,63.9,4,0,35.7,31.4,73000
+EMP-0388,South West,Software,Retail,Large,Apprenticeship,Mid,1.8,2,71.1,4,0,40.0,53.9,76600
+EMP-0148,Scotland,Finance,Retail,Enterprise,Apprenticeship,Lead,5.8,4,87.1,4,0,42.6,50.6,102800
+EMP-0015,North West,Data,Financial services,Enterprise,Professional certification,Associate,7.3,0,99.5,4,0,37.8,27.0,90900
+EMP-0175,London,Product,Retail,Small,Master,Associate,13.2,0,82.1,4,0,32.8,17.0,108900
+EMP-0087,West Midlands,Product,Financial services,Small,Bachelor,Mid,2.2,1,70.8,2,0,34.9,37.3,75800
+EMP-0166,North West,Software,Technology,Small,Master,Senior,0.7,3,66.3,1,0,37.6,46.8,88200
+EMP-0629,Scotland,Software,Public sector,Large,Master,Mid,8.0,2,75.0,3,0,35.9,31.8,86600
+EMP-0336,Wales,Product,Financial services,Large,Professional certification,Mid,6.1,1,75.6,1,0,39.3,0.0,93200
+EMP-0060,London,Finance,Financial services,Medium,Professional certification,Associate,5.7,0,83.8,0,0,38.2,0.0,85000
+EMP-0622,Scotland,Finance,Education,Small,Bachelor,Associate,9.2,2,45.2,0,0,38.9,55.4,65400
+EMP-0419,London,Data,Education,Enterprise,Bachelor,Senior,4.3,0,87.3,0,0,40.6,19.8,92400
+EMP-0165,Scotland,Data,Financial services,Large,Bachelor,Senior,5.9,1,64.3,3,0,36.1,42.9,91600
+EMP-0355,North West,Finance,Education,Large,Apprenticeship,Associate,4.4,1,69.2,1,0,36.0,29.4,60900
+EMP-0652,South West,People,Public sector,Large,Master,Mid,12.5,1,79.1,3,0,38.2,3.7,85900
+EMP-0293,South West,Software,Healthcare,Large,Master,Mid,3.9,1,60.4,3,0,41.7,47.4,80900
+EMP-0042,Yorkshire,Data,Retail,Large,Master,Associate,4.8,2,79.5,5,1,34.8,14.3,87300
+EMP-0362,London,People,Financial services,Medium,Apprenticeship,Associate,3.8,1,59.0,4,0,37.4,37.8,76700
+EMP-0330,South East,Software,Financial services,Small,Bachelor,Associate,5.0,1,58.9,4,0,42.5,27.6,85500
+EMP-0469,London,Data,Public sector,Large,Bachelor,Mid,2.3,3,78.9,1,0,37.3,59.2,87700
+EMP-0080,Yorkshire,Product,Healthcare,Large,Professional certification,Associate,1.7,1,78.7,5,0,33.3,34.8,67000
+EMP-0563,Yorkshire,Software,Healthcare,Medium,Master,Associate,1.3,2,87.1,5,0,40.7,46.2,76100
+EMP-0029,London,Finance,Public sector,Enterprise,Bachelor,Lead,2.6,2,67.7,0,0,38.5,53.3,95500
+EMP-0400,North West,Finance,Retail,Large,Master,Mid,5.0,1,73.0,4,0,39.5,44.5,73000
+EMP-0703,London,Software,Financial services,Enterprise,Master,Associate,6.6,2,77.1,5,0,34.2,35.6,101700
+EMP-0514,South East,Product,Financial services,Small,Bachelor,Senior,6.4,2,73.6,3,0,37.8,33.1,99800
+EMP-0255,South East,Software,Retail,Medium,Master,Associate,1.2,0,69.7,0,0,36.3,76.3,68200
+EMP-0541,South West,Data,Education,Small,Bachelor,Associate,6.1,0,80.8,1,0,37.8,46.6,65900
+EMP-0314,North West,People,Financial services,Large,Master,Mid,2.2,3,73.8,5,0,33.1,59.6,90500
+EMP-0085,London,Data,Retail,Medium,Apprenticeship,Mid,5.0,1,77.2,0,0,40.0,28.6,78700
+EMP-0063,Scotland,Software,Retail,Enterprise,Apprenticeship,Associate,9.0,2,60.8,2,1,37.9,41.2,96100
+EMP-0699,West Midlands,Finance,Technology,Enterprise,Bachelor,Mid,7.9,3,99.8,0,0,36.4,31.1,93300
+EMP-0137,South West,Product,Education,Medium,Bachelor,Associate,3.6,4,88.9,1,0,40.6,47.6,66100
+EMP-0112,South East,Operations,Education,Small,Bachelor,Associate,6.8,1,60.2,0,0,36.4,1.2,64400
+EMP-0195,London,People,Education,Medium,Master,Associate,1.0,1,68.8,4,0,41.7,48.8,67800
+EMP-0341,London,People,Retail,Enterprise,Bachelor,Senior,4.8,1,82.6,2,1,42.0,13.4,105600
+EMP-0179,South West,Data,Healthcare,Large,Bachelor,Associate,6.2,0,83.4,1,1,42.4,20.4,79100
+EMP-0044,South East,Data,Education,Enterprise,Bachelor,Associate,2.9,2,70.5,0,0,45.1,40.9,76700
+EMP-0646,Yorkshire,Operations,Financial services,Large,Master,Associate,12.6,2,84.9,0,1,38.4,20.3,100800
+EMP-0348,South East,Product,Healthcare,Enterprise,Bachelor,Mid,7.9,1,65.1,5,0,39.1,0.6,94100
+EMP-0393,Wales,Operations,Education,Large,Bachelor,Mid,4.7,0,70.9,0,0,40.6,41.2,64700
+EMP-0294,London,People,Healthcare,Medium,Apprenticeship,Associate,6.2,0,91.8,4,0,41.6,31.8,86500
+EMP-0130,Wales,People,Retail,Medium,Master,Mid,9.0,3,84.6,0,0,41.2,50.6,75600
+EMP-0648,Scotland,Data,Public sector,Medium,Bachelor,Senior,7.3,3,78.8,4,0,36.9,52.2,96100
+EMP-0415,London,People,Financial services,Enterprise,Master,Associate,1.6,2,60.2,5,0,36.7,22.0,83100
+EMP-0219,South West,Finance,Financial services,Large,Master,Associate,4.8,1,79.9,1,0,38.9,15.4,80500
+EMP-0097,North West,Finance,Healthcare,Large,Bachelor,Mid,5.4,2,83.6,3,0,38.9,56.4,91000
+EMP-0125,London,Data,Retail,Medium,Bachelor,Associate,2.9,3,78.5,0,0,36.9,43.0,77700
+EMP-0682,South East,Data,Financial services,Medium,Professional certification,Senior,0.7,1,63.9,1,0,34.4,9.9,93100
+EMP-0227,London,Product,Technology,Enterprise,Bachelor,Mid,2.7,2,71.0,5,0,39.8,50.3,91500
+EMP-0178,South West,Data,Public sector,Enterprise,Apprenticeship,Senior,2.8,0,86.3,4,0,39.9,45.9,83900
+EMP-0527,South West,Operations,Healthcare,Medium,Bachelor,Mid,6.0,2,80.0,5,1,37.7,37.3,84800
+EMP-0694,South East,People,Financial services,Enterprise,Bachelor,Associate,5.2,1,81.8,1,0,43.2,40.7,92800
+EMP-0398,South East,Finance,Financial services,Large,Master,Associate,3.4,0,77.3,0,0,32.2,33.8,75800
+EMP-0681,London,Software,Public sector,Large,Master,Associate,7.0,1,66.1,4,0,34.8,34.3,78400
+EMP-0529,Yorkshire,Finance,Education,Large,Professional certification,Mid,1.0,1,89.4,4,0,42.5,49.0,81800
+EMP-0104,South West,Product,Retail,Small,Professional certification,Associate,3.5,2,73.2,3,0,32.8,48.4,57600
+EMP-0082,North West,Software,Healthcare,Large,Master,Mid,2.7,3,64.9,2,0,41.8,48.8,77800
+EMP-0614,South West,People,Retail,Large,Apprenticeship,Mid,2.1,2,58.1,1,0,30.0,35.1,55600
+EMP-0501,West Midlands,Data,Retail,Enterprise,Bachelor,Associate,3.2,0,91.8,2,0,41.7,20.3,70800
+EMP-0373,North West,Software,Public sector,Large,Bachelor,Mid,6.9,3,99.5,0,1,38.4,76.7,105000
+EMP-0265,South West,Data,Retail,Medium,Bachelor,Senior,4.9,0,77.6,1,0,35.7,36.7,82900
+EMP-0486,North West,Data,Retail,Small,Master,Senior,10.5,1,92.0,4,1,33.7,30.0,116600
+EMP-0338,West Midlands,Data,Healthcare,Large,Bachelor,Associate,7.4,1,72.1,5,1,33.9,32.7,79700
+EMP-0383,Yorkshire,Finance,Retail,Enterprise,Apprenticeship,Mid,8.2,2,69.3,5,1,36.9,62.0,97300
+EMP-0228,Scotland,Finance,Healthcare,Medium,Bachelor,Associate,1.3,0,89.4,5,0,37.4,24.8,65300
+EMP-0302,London,Product,Financial services,Small,Master,Mid,2.5,0,71.3,0,0,43.3,47.1,73000
+EMP-0448,Wales,Operations,Financial services,Large,Bachelor,Lead,6.6,0,62.3,1,0,40.8,0.0,92500
+EMP-0276,North West,Software,Technology,Large,Bachelor,Senior,6.1,1,75.6,0,1,38.0,16.9,102400
+EMP-0127,South East,Software,Education,Medium,Master,Mid,7.7,4,93.9,5,0,38.1,82.6,104900
+EMP-0604,West Midlands,Finance,Financial services,Enterprise,Bachelor,Mid,0.6,0,64.0,0,0,32.7,27.7,74300
+EMP-0264,London,Software,Education,Small,Bachelor,Mid,1.8,3,73.5,2,0,38.0,30.7,87800
+EMP-0639,Yorkshire,Product,Retail,Medium,Professional certification,Associate,6.3,3,72.0,3,0,31.2,49.5,72500
+EMP-0200,South East,Operations,Healthcare,Large,Bachelor,Mid,2.5,0,59.3,0,0,41.7,43.5,65700
+EMP-0254,South East,People,Public sector,Enterprise,Apprenticeship,Mid,8.3,0,91.3,0,1,41.8,23.0,87200
+EMP-0172,Scotland,People,Financial services,Enterprise,Bachelor,Associate,4.3,0,82.5,1,0,36.8,32.4,70100
+EMP-0238,Yorkshire,Operations,Education,Small,Master,Senior,4.5,0,66.0,1,0,37.5,34.7,74200
+EMP-0037,London,Software,Education,Small,Apprenticeship,Mid,10.2,2,87.5,2,0,40.5,52.3,94000
+EMP-0140,London,Operations,Retail,Small,Bachelor,Lead,1.0,1,54.6,5,0,31.1,24.1,79900
+EMP-0304,Scotland,Operations,Public sector,Enterprise,Professional certification,Associate,8.4,0,72.0,2,0,36.6,20.9,73900
+EMP-0268,London,Data,Technology,Enterprise,Bachelor,Senior,2.8,1,70.1,1,0,40.9,35.7,89000
+EMP-0323,South East,Operations,Retail,Medium,Bachelor,Senior,4.2,1,72.9,4,0,38.2,54.5,85900
+EMP-0651,North West,Data,Healthcare,Large,Professional certification,Associate,4.5,2,67.5,5,1,39.1,56.9,78800
+EMP-0519,London,Data,Public sector,Medium,Bachelor,Senior,2.4,0,67.7,2,0,45.0,8.4,90800
+EMP-0213,London,Software,Retail,Small,Bachelor,Associate,2.4,0,59.1,4,0,35.5,13.9,74700
+EMP-0385,North West,Data,Education,Large,Bachelor,Mid,7.9,3,93.0,5,1,43.7,76.3,96800
+EMP-0199,London,Software,Financial services,Enterprise,Apprenticeship,Associate,2.8,2,81.3,5,0,37.5,37.9,90600
+EMP-0406,Yorkshire,Operations,Healthcare,Large,Bachelor,Senior,2.5,1,60.7,1,0,30.9,69.7,73900
+EMP-0356,Scotland,Software,Education,Enterprise,Bachelor,Lead,5.8,1,88.9,3,0,33.4,60.0,101800
+EMP-0535,London,Data,Education,Medium,Bachelor,Senior,11.8,3,81.6,4,0,34.0,84.4,112400
+EMP-0405,South West,Software,Healthcare,Medium,Apprenticeship,Associate,7.9,0,84.9,1,1,35.8,51.6,94100
+EMP-0016,South East,Product,Education,Large,Bachelor,Senior,4.0,1,68.9,5,0,38.9,39.1,79000
+EMP-0164,London,Software,Education,Small,Bachelor,Senior,1.1,1,83.3,1,0,39.3,23.5,78800
+EMP-0570,Scotland,Operations,Healthcare,Large,Professional certification,Senior,4.9,0,68.2,5,0,41.2,0.0,78100
+EMP-0303,Scotland,People,Retail,Enterprise,Apprenticeship,Senior,2.6,1,100.0,0,0,34.9,34.6,81000
+EMP-0242,Yorkshire,Software,Technology,Large,Professional certification,Mid,4.1,1,80.9,5,0,30.0,69.1,85000
+EMP-0343,Yorkshire,Software,Retail,Large,Bachelor,Mid,5.2,3,86.5,3,0,37.0,10.4,91800
+EMP-0038,North West,People,Technology,Medium,Bachelor,Mid,10.6,0,89.8,1,0,34.5,30.8,96200
+EMP-0387,West Midlands,Data,Retail,Enterprise,Professional certification,Senior,1.2,0,53.3,0,0,36.9,6.1,79200
+EMP-0714,South West,Data,Education,Small,Apprenticeship,Senior,5.8,1,51.2,2,0,42.0,50.2,89000
+EMP-0207,London,Data,Financial services,Medium,Master,Mid,11.2,1,95.2,3,0,32.8,20.3,109900
+EMP-0296,South West,Data,Education,Medium,Bachelor,Senior,3.9,0,87.7,5,0,36.3,22.7,89300
+EMP-0572,Yorkshire,Operations,Public sector,Medium,Professional certification,Associate,2.7,2,77.8,1,0,36.0,38.4,51000
+EMP-0686,North West,Software,Financial services,Medium,Bachelor,Mid,3.7,3,69.0,3,0,40.6,43.6,90600
+EMP-0074,South East,Data,Healthcare,Enterprise,Apprenticeship,Mid,3.7,2,82.5,5,0,37.6,60.9,91600
+EMP-0094,North West,Operations,Technology,Small,Master,Associate,7.0,3,61.3,1,0,39.4,37.7,71400
+EMP-0105,Yorkshire,Finance,Retail,Large,Bachelor,Mid,9.5,2,76.4,4,1,36.3,8.5,87800
+EMP-0478,Wales,Operations,Technology,Medium,Bachelor,Senior,4.7,0,50.6,3,0,38.2,55.3,74300
+EMP-0508,Yorkshire,Software,Retail,Medium,Master,Senior,1.5,1,100.0,0,0,33.9,37.6,82100
+EMP-0017,Scotland,Data,Education,Large,Master,Associate,18.7,2,92.4,0,0,35.6,28.6,109900
+EMP-0440,Wales,Product,Public sector,Large,Professional certification,Associate,2.5,2,76.3,1,0,43.1,32.6,80200
+EMP-0092,West Midlands,Data,Public sector,Large,Master,Associate,6.9,0,82.2,4,1,36.9,33.3,76600
+EMP-0089,London,Operations,Retail,Enterprise,Master,Mid,4.1,1,60.4,2,0,37.8,17.6,82300
+EMP-0311,North West,Operations,Public sector,Large,Bachelor,Senior,2.0,1,59.6,2,0,43.7,32.8,75700
+EMP-0397,Yorkshire,Data,Public sector,Small,Bachelor,Senior,8.9,2,63.5,0,0,44.9,32.1,96800
+EMP-0451,London,Software,Education,Large,Bachelor,Associate,2.1,1,65.2,5,0,39.3,58.8,79000
+EMP-0206,South East,Software,Healthcare,Enterprise,Master,Associate,3.6,2,80.2,2,0,35.6,18.6,85300
+EMP-0103,South East,Software,Retail,Enterprise,Bachelor,Associate,0.3,2,74.1,1,0,43.8,54.7,78900
+EMP-0239,London,Operations,Public sector,Large,Master,Lead,3.1,5,88.5,5,0,32.2,62.3,110000
+EMP-0659,Wales,Operations,Education,Medium,Apprenticeship,Associate,16.0,1,92.0,3,1,41.8,24.5,96900
+EMP-0431,South West,Data,Education,Medium,Bachelor,Mid,5.8,2,77.2,1,0,43.1,82.5,93700
+EMP-0247,Wales,People,Retail,Medium,Bachelor,Mid,6.0,1,68.9,1,0,31.1,47.8,65800
+EMP-0427,South East,Product,Financial services,Large,Bachelor,Associate,6.3,4,86.4,4,1,40.6,83.1,103500
+EMP-0701,South East,Product,Technology,Small,Bachelor,Associate,1.3,1,58.3,4,0,35.9,51.7,69100
+EMP-0158,West Midlands,Software,Public sector,Small,Master,Associate,6.1,1,68.7,4,0,38.5,45.7,69100
+EMP-0327,Yorkshire,Data,Technology,Medium,Bachelor,Senior,1.0,1,58.6,2,0,31.6,46.8,74400
+EMP-0134,North West,People,Retail,Enterprise,Master,Associate,2.1,1,67.1,4,0,39.8,13.6,72700
+EMP-0606,Yorkshire,Finance,Public sector,Medium,Bachelor,Mid,3.3,2,86.8,5,0,37.1,35.0,67900
+EMP-0590,London,People,Technology,Small,Professional certification,Mid,1.9,0,66.8,3,0,31.2,32.1,61400
+EMP-0360,Wales,Software,Public sector,Small,Apprenticeship,Mid,3.6,1,56.8,2,0,33.5,8.9,59600
+EMP-0454,London,Product,Technology,Large,Professional certification,Mid,10.1,1,81.5,4,1,41.1,49.1,116000
+EMP-0019,Yorkshire,Software,Retail,Medium,Apprenticeship,Mid,1.3,1,80.0,5,0,37.5,2.2,73000
+EMP-0500,Scotland,Data,Healthcare,Large,Bachelor,Mid,1.3,1,78.4,3,0,33.5,50.6,65500
+EMP-0122,Wales,Finance,Retail,Medium,Master,Associate,2.5,0,65.2,5,0,40.2,27.2,67000
+EMP-0631,South West,Finance,Technology,Enterprise,Apprenticeship,Mid,5.3,1,78.1,0,0,33.9,45.0,74300
+EMP-0150,London,Data,Technology,Enterprise,Bachelor,Associate,6.6,3,88.0,2,0,33.2,51.3,94700
+EMP-0499,North West,Product,Technology,Small,Bachelor,Senior,4.0,1,79.1,2,0,37.9,0.0,78000
+EMP-0275,West Midlands,People,Public sector,Medium,Master,Senior,10.2,2,80.8,4,0,38.6,61.3,99100
+EMP-0434,Yorkshire,Data,Financial services,Enterprise,Professional certification,Associate,5.6,2,90.2,5,0,42.2,57.3,87900
+EMP-0300,Wales,Software,Financial services,Medium,Professional certification,Associate,6.8,2,66.4,2,0,36.3,53.5,83000
+EMP-0640,Yorkshire,Data,Technology,Large,Bachelor,Mid,3.0,5,92.1,4,0,38.8,69.3,99600
+EMP-0312,North West,Product,Retail,Large,Bachelor,Mid,3.7,3,62.9,0,0,35.9,77.0,77200
+EMP-0543,Yorkshire,Software,Education,Large,Bachelor,Lead,4.2,0,79.9,4,0,40.5,24.7,96100
+EMP-0599,South West,Product,Healthcare,Small,Bachelor,Senior,3.9,3,57.7,3,0,34.8,32.8,79200
+EMP-0269,London,Software,Technology,Medium,Professional certification,Mid,4.4,0,69.5,2,0,36.8,0.0,87500
+EMP-0035,North West,Product,Healthcare,Medium,Bachelor,Mid,3.8,2,72.8,2,0,41.7,13.0,76100
+EMP-0182,South West,Software,Financial services,Medium,Bachelor,Associate,2.2,1,68.6,3,0,38.3,3.5,64000
+EMP-0185,Yorkshire,People,Retail,Large,Master,Associate,4.5,1,69.5,4,0,36.2,63.3,74900
+EMP-0407,South East,Operations,Public sector,Large,Master,Mid,4.4,2,50.2,2,0,40.2,55.2,68800
+EMP-0208,West Midlands,Finance,Financial services,Small,Apprenticeship,Senior,7.9,1,97.9,5,0,35.5,18.5,105000
+EMP-0506,Yorkshire,Finance,Financial services,Medium,Apprenticeship,Senior,16.3,2,93.4,5,0,31.6,84.0,124900
+EMP-0095,South East,Data,Public sector,Medium,Bachelor,Mid,5.6,1,79.8,4,0,38.0,47.4,77900
+EMP-0620,London,Software,Healthcare,Enterprise,Bachelor,Associate,2.2,2,72.5,2,0,39.1,51.7,86100
+EMP-0553,London,Software,Financial services,Medium,Master,Associate,2.9,3,88.2,0,0,44.4,27.3,90200
+EMP-0354,Wales,People,Public sector,Large,Bachelor,Associate,2.3,2,75.2,5,0,40.8,69.7,57500
+EMP-0492,Wales,Finance,Financial services,Large,Professional certification,Senior,5.4,1,43.7,2,0,40.6,51.1,83800
+EMP-0381,Scotland,Data,Healthcare,Large,Bachelor,Mid,7.0,1,79.9,5,0,39.2,53.2,93300
+EMP-0481,North West,Operations,Technology,Medium,Master,Mid,7.0,1,67.7,1,0,38.8,45.8,75900
+EMP-0411,West Midlands,People,Healthcare,Enterprise,Bachelor,Associate,2.2,1,86.3,4,0,41.2,45.5,66100
+EMP-0123,London,Operations,Technology,Medium,Bachelor,Mid,9.6,4,92.9,5,0,35.5,40.2,99100
+EMP-0370,South West,Software,Healthcare,Large,Apprenticeship,Associate,5.9,1,66.7,1,0,39.4,35.5,80100
+EMP-0583,London,Product,Technology,Small,Professional certification,Mid,2.0,1,67.1,0,0,35.5,29.1,77100
+EMP-0539,London,Operations,Public sector,Large,Bachelor,Senior,5.6,1,78.8,5,0,33.5,32.5,91000
+EMP-0079,Scotland,Product,Education,Large,Professional certification,Associate,4.2,0,76.3,2,0,34.0,36.9,70200
+EMP-0571,South East,Software,Healthcare,Medium,Master,Mid,3.9,4,91.0,1,0,35.5,52.6,81900
+EMP-0704,Yorkshire,Software,Financial services,Enterprise,Master,Mid,2.1,3,64.7,4,0,41.5,71.0,84700
+EMP-0595,London,Data,Financial services,Large,Bachelor,Associate,4.7,1,78.7,5,0,35.9,31.1,87200
+EMP-0658,South East,Finance,Public sector,Small,Bachelor,Mid,15.6,2,90.5,1,1,41.4,46.2,102900
+EMP-0417,London,Software,Financial services,Small,Bachelor,Associate,9.5,3,96.6,5,0,39.5,48.2,97600
+EMP-0607,Yorkshire,Software,Healthcare,Large,Bachelor,Senior,14.5,2,86.0,1,0,39.4,35.8,111400
+EMP-0068,South East,Software,Healthcare,Medium,Bachelor,Associate,3.7,2,60.0,3,0,39.1,45.6,72200
+EMP-0078,West Midlands,Data,Healthcare,Medium,Bachelor,Associate,2.9,2,79.9,5,0,38.5,25.0,73900
+EMP-0106,West Midlands,Data,Education,Medium,Bachelor,Mid,5.0,0,68.8,5,0,34.2,32.8,76500
+EMP-0715,Yorkshire,Data,Financial services,Medium,Bachelor,Associate,2.2,2,79.5,5,0,38.0,38.4,78400
+EMP-0559,Wales,Finance,Technology,Enterprise,Bachelor,Mid,5.2,3,67.5,0,0,39.0,52.9,80600
+EMP-0642,Yorkshire,Software,Financial services,Small,Professional certification,Senior,3.3,0,73.8,3,0,39.6,32.1,93400
+EMP-0668,South West,Software,Technology,Large,Master,Senior,6.9,2,71.6,5,1,37.0,47.1,98900
+EMP-0557,South East,Data,Financial services,Medium,Bachelor,Mid,8.9,1,73.4,0,0,40.6,33.8,100200
+EMP-0491,West Midlands,Product,Technology,Enterprise,Bachelor,Lead,10.0,1,62.0,3,0,37.5,47.7,100700
+EMP-0707,Yorkshire,Data,Healthcare,Enterprise,Master,Associate,8.3,2,68.6,0,0,37.3,14.3,73200
+EMP-0676,North West,Data,Healthcare,Small,Bachelor,Associate,1.5,0,70.6,2,0,41.0,20.1,63400
+EMP-0364,London,Finance,Education,Medium,Bachelor,Associate,1.0,1,62.1,2,0,40.6,34.9,63100
+EMP-0070,North West,Operations,Education,Enterprise,Bachelor,Associate,6.0,3,78.0,0,0,34.0,18.6,76000
+EMP-0161,London,Software,Healthcare,Large,Master,Associate,8.1,1,71.2,3,0,39.6,52.2,97900
+EMP-0012,South West,Data,Education,Medium,Master,Mid,1.4,1,72.9,3,0,30.8,36.1,78500
+EMP-0145,North West,Data,Healthcare,Enterprise,Bachelor,Associate,6.4,4,76.5,3,0,35.9,41.7,74200
+EMP-0518,West Midlands,Software,Technology,Large,Apprenticeship,Associate,1.9,1,75.5,1,0,38.1,56.3,70000
+EMP-0428,Yorkshire,Finance,Public sector,Small,Master,Associate,9.5,2,99.1,3,0,32.5,71.1,81800
+EMP-0177,North West,Software,Retail,Medium,Master,Mid,25.0,0,83.2,5,1,38.0,14.8,126700
+EMP-0441,Yorkshire,Data,Public sector,Medium,Master,Senior,8.0,1,87.5,1,1,34.5,26.2,97600
+EMP-0522,North West,Software,Technology,Small,Professional certification,Associate,4.8,2,80.1,1,0,33.8,58.2,81800
+EMP-0624,North West,Operations,Financial services,Small,Apprenticeship,Associate,8.4,2,80.2,2,0,37.4,38.6,88500
+EMP-0672,Wales,Finance,Education,Enterprise,Apprenticeship,Mid,3.3,2,69.2,1,0,38.3,77.3,76200
+EMP-0232,North West,Software,Retail,Large,Master,Mid,14.0,1,84.9,5,0,34.5,48.1,96500
+EMP-0211,West Midlands,Software,Healthcare,Small,Apprenticeship,Mid,4.3,1,70.8,2,0,34.9,48.5,74300
+EMP-0144,Wales,Operations,Financial services,Small,Bachelor,Mid,10.8,4,82.7,5,1,39.4,78.1,100700
+EMP-0520,Yorkshire,Data,Retail,Enterprise,Master,Associate,7.1,3,90.2,2,0,39.0,51.9,91400
+EMP-0713,Yorkshire,Data,Technology,Small,Bachelor,Lead,2.1,1,78.9,4,0,32.5,35.2,94200
+EMP-0299,Yorkshire,Data,Financial services,Small,Bachelor,Associate,2.9,2,69.5,3,0,36.8,50.3,71400
+EMP-0429,London,Operations,Public sector,Small,Professional certification,Mid,3.0,0,64.1,3,0,34.0,43.3,62200
+EMP-0661,South East,Software,Retail,Enterprise,Professional certification,Associate,2.8,1,63.4,4,0,43.3,44.5,76600
+EMP-0009,London,Software,Public sector,Medium,Master,Senior,4.9,1,65.1,1,0,36.4,71.5,98800
+EMP-0157,South East,Software,Retail,Large,Bachelor,Associate,17.9,1,95.1,1,0,36.2,51.6,108000
+EMP-0540,Yorkshire,People,Financial services,Small,Bachelor,Lead,7.5,0,90.7,3,0,35.7,49.8,96100
+EMP-0507,South East,Software,Retail,Large,Bachelor,Associate,1.7,2,79.1,0,0,42.9,26.9,73600
+EMP-0437,London,Data,Education,Small,Bachelor,Associate,4.2,1,79.5,3,0,30.0,35.3,66200
+EMP-0267,South East,Software,Education,Large,Master,Mid,4.6,0,75.8,5,0,36.0,43.1,78700
+EMP-0462,London,Data,Financial services,Enterprise,Bachelor,Associate,4.8,1,58.8,2,0,41.0,5.3,83400
+EMP-0339,London,Operations,Technology,Large,Master,Senior,5.7,0,79.3,1,0,35.5,52.9,96300
+EMP-0256,West Midlands,Operations,Public sector,Medium,Bachelor,Senior,3.3,4,60.6,0,0,35.1,68.0,69600
+EMP-0649,West Midlands,Data,Financial services,Large,Apprenticeship,Senior,2.9,1,65.4,2,0,33.7,48.2,92700
+EMP-0611,Scotland,Product,Public sector,Large,Bachelor,Mid,2.1,1,75.0,0,0,40.8,28.3,68700
+EMP-0561,London,Software,Technology,Enterprise,Bachelor,Associate,7.0,3,100.0,4,1,35.2,81.9,114200
+EMP-0209,London,Operations,Financial services,Small,Bachelor,Associate,3.5,2,76.0,5,0,41.6,34.5,83400
+EMP-0288,North West,Software,Financial services,Medium,Master,Associate,0.5,0,53.9,0,0,42.8,11.0,66500
+EMP-0002,North West,Software,Financial services,Large,Bachelor,Mid,2.0,2,71.8,3,0,37.7,28.1,81300
+EMP-0342,South West,Operations,Financial services,Medium,Bachelor,Senior,3.8,1,82.0,3,0,41.4,31.4,88200
+EMP-0270,London,Finance,Public sector,Large,Bachelor,Associate,3.1,2,75.7,2,0,32.3,44.0,76600
+EMP-0266,London,People,Education,Enterprise,Master,Mid,2.1,1,61.8,3,0,37.5,15.0,73700
+EMP-0586,Wales,People,Retail,Large,Master,Mid,8.1,0,57.6,1,0,32.0,0.4,66100
+EMP-0597,West Midlands,Operations,Education,Medium,Bachelor,Mid,9.4,0,77.5,1,0,42.6,22.1,80700
+EMP-0096,Wales,Finance,Healthcare,Small,Bachelor,Mid,2.8,2,74.1,5,0,36.5,0.0,69700
+EMP-0690,Scotland,Product,Financial services,Large,Apprenticeship,Senior,5.9,4,80.6,3,0,37.5,62.0,117300
+EMP-0043,West Midlands,Data,Public sector,Small,Master,Associate,2.6,2,86.1,4,0,35.8,5.5,73800
+EMP-0579,Yorkshire,Product,Technology,Small,Bachelor,Mid,3.4,0,57.4,0,0,36.5,37.0,71800
+EMP-0711,South West,People,Public sector,Medium,Bachelor,Mid,3.4,2,82.1,2,0,32.6,46.2,72400
+EMP-0598,Wales,Data,Education,Small,Master,Associate,4.8,2,80.5,3,0,39.1,18.2,65400
+EMP-0046,Yorkshire,Data,Financial services,Large,Bachelor,Mid,6.7,2,92.9,1,0,43.9,41.3,103600
+EMP-0162,South West,Operations,Financial services,Medium,Master,Senior,2.1,2,67.8,3,0,30.0,54.9,71200
+EMP-0289,Scotland,Product,Retail,Large,Bachelor,Senior,2.1,1,70.1,3,0,41.0,65.2,86200
+EMP-0638,West Midlands,Software,Technology,Large,Apprenticeship,Lead,3.1,2,73.5,1,0,40.9,8.0,101100
+EMP-0679,London,Operations,Financial services,Medium,Bachelor,Mid,2.7,1,58.8,4,0,41.2,55.4,85400
+EMP-0576,Scotland,Software,Technology,Small,Apprenticeship,Mid,7.9,0,69.4,4,0,35.1,7.6,88300
+EMP-0316,South East,Operations,Financial services,Enterprise,Master,Senior,0.5,1,77.2,0,0,32.3,43.3,82500
+EMP-0231,London,Operations,Education,Small,Bachelor,Mid,6.9,0,62.4,4,1,36.6,53.6,88600
+EMP-0592,North West,People,Retail,Large,Bachelor,Mid,0.9,1,79.9,5,0,32.7,43.9,73600
+EMP-0077,South East,Data,Public sector,Medium,Apprenticeship,Senior,2.3,2,72.7,3,0,31.2,40.0,79000
+EMP-0693,South East,Finance,Retail,Small,Master,Mid,8.1,1,80.1,3,0,32.6,6.4,79500
+EMP-0248,North West,Data,Technology,Large,Master,Senior,3.6,0,97.5,3,0,37.5,11.3,112700
+EMP-0477,North West,Data,Public sector,Large,Master,Senior,4.9,1,66.2,1,0,39.1,26.4,90100
+EMP-0086,London,Data,Education,Medium,Apprenticeship,Senior,4.6,0,54.7,5,0,30.0,6.5,85200
+EMP-0470,Scotland,Operations,Retail,Enterprise,Bachelor,Senior,8.2,2,74.0,3,0,33.4,85.4,98600
+EMP-0226,South West,Software,Financial services,Medium,Master,Senior,2.2,1,73.4,4,0,33.3,20.1,87600
+EMP-0332,South East,Data,Financial services,Large,Bachelor,Associate,5.4,1,68.6,4,0,31.7,46.6,90600
+EMP-0234,Wales,Data,Technology,Medium,Apprenticeship,Mid,6.9,3,94.5,3,0,42.7,58.8,90700
+EMP-0589,London,Data,Education,Large,Bachelor,Lead,2.6,1,82.6,1,0,41.3,5.5,108500
+EMP-0476,South East,Data,Healthcare,Small,Bachelor,Senior,3.1,4,81.9,3,0,35.4,84.9,101500
+EMP-0641,West Midlands,Product,Retail,Enterprise,Professional certification,Senior,4.1,3,100.0,0,0,41.3,59.5,106100
+EMP-0600,Wales,Finance,Retail,Large,Bachelor,Associate,5.0,3,76.7,4,0,38.1,49.6,77000
+EMP-0422,London,Finance,Financial services,Medium,Bachelor,Senior,7.9,1,49.9,0,0,39.9,15.7,106400
+EMP-0183,Scotland,Data,Healthcare,Enterprise,Bachelor,Mid,10.2,3,70.7,0,0,32.9,43.9,91000
+EMP-0333,West Midlands,Software,Healthcare,Enterprise,Master,Associate,11.4,3,80.5,2,1,38.0,35.7,115400
+EMP-0439,West Midlands,Software,Financial services,Medium,Bachelor,Associate,3.5,2,85.6,4,0,41.4,37.1,93000
+EMP-0050,London,Operations,Education,Large,Professional certification,Mid,1.2,1,60.3,4,0,40.8,43.8,76300
+EMP-0006,South West,Data,Public sector,Large,Bachelor,Mid,5.8,0,68.3,2,0,36.4,22.4,73200
+EMP-0530,South East,People,Healthcare,Medium,Bachelor,Mid,5.7,1,70.0,3,0,41.6,47.6,79100
+EMP-0235,South West,People,Healthcare,Small,Professional certification,Mid,5.2,3,74.2,0,0,35.6,41.7,75100
+EMP-0487,North West,Operations,Education,Enterprise,Bachelor,Lead,1.5,1,69.9,5,0,40.1,5.7,89200
+EMP-0645,Wales,Software,Financial services,Medium,Bachelor,Lead,4.7,1,67.4,0,0,37.8,43.4,95600
+EMP-0498,Wales,Operations,Education,Small,Apprenticeship,Senior,15.4,0,77.9,2,1,33.6,15.2,109100
+EMP-0107,North West,Operations,Retail,Medium,Bachelor,Senior,9.1,0,100.0,1,0,45.2,20.1,94400
+EMP-0444,London,Data,Education,Medium,Bachelor,Mid,4.1,1,66.5,2,0,36.2,53.2,80500
+EMP-0489,Wales,Software,Healthcare,Small,Apprenticeship,Mid,1.1,2,71.0,1,0,35.9,19.8,70900
+EMP-0013,Wales,Data,Healthcare,Large,Master,Associate,2.0,0,83.8,0,0,30.5,44.7,72200
+EMP-0191,South West,Product,Healthcare,Small,Professional certification,Mid,2.9,3,66.4,2,0,40.3,84.7,65300
+EMP-0283,South East,Data,Public sector,Large,Apprenticeship,Associate,6.7,1,96.3,3,0,43.2,30.9,85200
+EMP-0030,West Midlands,Finance,Healthcare,Medium,Bachelor,Associate,7.7,2,97.6,0,0,38.2,54.1,71200
+EMP-0170,South West,Product,Retail,Large,Bachelor,Associate,3.7,3,65.6,2,0,41.4,65.3,67700
+EMP-0181,South West,Software,Financial services,Enterprise,Master,Senior,9.8,1,80.3,5,1,45.5,12.1,113400
+EMP-0101,South West,Data,Retail,Large,Master,Associate,4.2,5,75.7,2,0,41.6,99.1,79700
+EMP-0198,Yorkshire,Data,Retail,Medium,Professional certification,Associate,3.3,1,58.1,2,0,33.3,30.1,67700
+EMP-0496,Scotland,Operations,Education,Small,Master,Lead,2.6,0,64.3,2,0,37.9,30.9,75500
+EMP-0696,Scotland,Finance,Retail,Large,Master,Associate,5.9,0,70.0,2,0,33.8,63.1,80400
+EMP-0374,South East,Software,Healthcare,Small,Bachelor,Senior,5.4,1,57.6,2,0,32.8,28.0,85700
+EMP-0634,North West,Software,Public sector,Medium,Apprenticeship,Associate,6.5,1,69.0,1,1,37.1,44.2,79500
+EMP-0461,Wales,Product,Education,Large,Bachelor,Senior,1.5,1,69.5,0,0,44.1,22.4,75000
+EMP-0414,South West,Product,Financial services,Medium,Professional certification,Associate,2.9,0,77.2,3,0,39.4,20.7,74400
+EMP-0132,South West,Data,Education,Large,Bachelor,Associate,2.0,0,68.9,4,0,38.3,22.1,50300
+EMP-0040,West Midlands,Software,Healthcare,Large,Apprenticeship,Associate,2.7,0,69.7,0,0,40.8,4.6,65900
+EMP-0435,London,Operations,Healthcare,Large,Bachelor,Senior,3.7,1,64.1,1,0,42.2,29.9,91400
+EMP-0216,West Midlands,Data,Retail,Large,Bachelor,Senior,12.9,0,67.4,4,1,37.7,33.9,114600
+EMP-0556,South East,Software,Education,Large,Professional certification,Mid,4.1,2,89.5,5,0,39.7,9.1,79000
+EMP-0567,West Midlands,Software,Financial services,Medium,Bachelor,Mid,3.1,0,55.5,2,0,40.4,38.0,72800
+EMP-0475,South East,Finance,Technology,Enterprise,Bachelor,Senior,15.0,3,88.3,4,0,30.5,46.9,110600
+EMP-0457,South West,Software,Education,Enterprise,Master,Associate,5.4,1,79.5,3,0,36.8,33.0,72100
+EMP-0261,London,People,Healthcare,Enterprise,Apprenticeship,Mid,1.1,1,83.7,1,0,42.4,28.5,86300
+EMP-0036,London,Data,Healthcare,Small,Master,Senior,5.4,0,92.3,2,0,38.6,17.0,94000
+EMP-0310,London,Software,Technology,Small,Master,Senior,2.9,3,71.1,5,0,39.4,11.7,105000
+EMP-0277,South East,Operations,Retail,Enterprise,Bachelor,Mid,9.8,5,82.5,4,0,37.3,23.6,106300
+EMP-0637,West Midlands,Operations,Financial services,Large,Apprenticeship,Associate,4.8,0,85.7,3,0,39.3,32.7,78100
+EMP-0623,South West,Operations,Financial services,Large,Professional certification,Mid,4.8,1,56.4,3,0,35.6,59.7,76300
+EMP-0394,West Midlands,People,Healthcare,Small,Master,Mid,2.4,1,79.0,2,0,42.0,40.1,71600
+EMP-0108,South East,Data,Retail,Small,Bachelor,Mid,2.5,3,67.3,0,0,35.7,33.3,70900
+EMP-0677,South West,Operations,Retail,Small,Bachelor,Mid,7.7,1,72.8,5,0,31.7,12.2,69800
+EMP-0525,London,Software,Healthcare,Medium,Master,Associate,3.2,2,83.2,0,0,38.9,41.9,83100
+EMP-0048,South East,Data,Financial services,Large,Apprenticeship,Mid,2.1,1,79.2,4,0,38.4,32.5,73600
+EMP-0204,London,Operations,Financial services,Large,Bachelor,Mid,6.2,1,62.7,1,0,39.5,35.8,101900
+EMP-0663,London,Operations,Public sector,Small,Bachelor,Mid,6.1,0,68.5,5,0,34.4,19.7,81100
+EMP-0632,Yorkshire,Finance,Education,Large,Bachelor,Associate,3.7,4,70.2,4,0,36.9,47.8,68200
+EMP-0022,North West,Data,Retail,Medium,Bachelor,Mid,3.9,0,78.1,5,0,36.4,21.2,73400
+EMP-0403,Yorkshire,Finance,Technology,Enterprise,Bachelor,Senior,2.7,0,86.9,0,0,41.0,0.0,83600
+EMP-0084,London,Operations,Public sector,Large,Master,Senior,2.8,0,84.8,2,0,35.0,27.2,78900
+EMP-0131,London,Data,Healthcare,Large,Professional certification,Senior,6.0,2,63.0,4,0,35.2,23.5,92700
+EMP-0416,South East,Software,Retail,Small,Bachelor,Associate,4.1,1,72.8,1,0,33.7,45.5,79800
+EMP-0287,London,People,Retail,Medium,Bachelor,Associate,2.2,1,72.0,1,0,32.0,41.6,72000
+EMP-0124,North West,Software,Technology,Medium,Master,Mid,2.7,2,89.2,3,0,33.4,42.1,80900
+EMP-0034,North West,Software,Financial services,Small,Professional certification,Mid,11.7,0,87.2,4,1,44.6,44.5,108700
+EMP-0517,South East,Data,Healthcare,Small,Bachelor,Associate,6.9,3,100.0,4,0,38.9,80.7,92500
+EMP-0020,Wales,Software,Financial services,Large,Bachelor,Associate,18.5,1,91.8,1,1,36.0,50.0,126700
+EMP-0664,London,People,Retail,Large,Bachelor,Mid,5.5,2,63.8,2,0,36.2,67.8,88100
+EMP-0220,North West,Data,Financial services,Medium,Bachelor,Senior,5.6,2,88.5,3,0,36.4,19.0,88800
+EMP-0716,London,People,Financial services,Enterprise,Apprenticeship,Mid,8.6,2,51.0,4,0,35.7,15.8,91600
+EMP-0482,South East,Operations,Retail,Small,Bachelor,Mid,3.3,1,84.9,2,0,42.0,40.7,67400
+EMP-0357,West Midlands,Operations,Healthcare,Small,Bachelor,Senior,9.2,4,83.3,4,1,42.8,35.2,104900
+EMP-0662,Yorkshire,Data,Education,Large,Bachelor,Senior,4.5,1,77.5,2,0,39.1,7.9,90500
+EMP-0225,South East,Software,Retail,Medium,Bachelor,Senior,7.1,2,77.9,2,0,38.6,27.1,97100
+EMP-0093,North West,People,Education,Large,Bachelor,Associate,8.3,1,80.3,4,1,37.6,26.4,75000
+EMP-0152,South West,Data,Financial services,Small,Bachelor,Mid,2.6,2,72.3,0,0,38.0,49.2,77200
+EMP-0702,South East,Operations,Retail,Large,Master,Associate,6.7,0,71.2,1,0,36.5,43.7,82400
+EMP-0318,West Midlands,Software,Retail,Small,Bachelor,Senior,9.4,3,98.8,3,0,39.0,36.7,109300
+EMP-0449,London,Finance,Healthcare,Medium,Bachelor,Mid,13.6,2,87.8,1,0,32.8,41.9,108100
+EMP-0523,London,Software,Public sector,Medium,Master,Associate,16.0,2,96.2,1,0,39.3,12.6,117500
+EMP-0280,Yorkshire,Software,Technology,Small,Master,Senior,5.3,1,66.5,5,0,30.0,68.9,92100
+EMP-0584,North West,Software,Public sector,Small,Master,Associate,4.2,1,88.4,1,0,35.4,52.1,66300
+EMP-0605,South West,Software,Healthcare,Enterprise,Bachelor,Lead,2.8,1,67.0,0,0,38.1,10.4,85900
+EMP-0350,London,Software,Technology,Small,Apprenticeship,Associate,5.9,1,59.7,4,0,35.7,27.4,79500
+EMP-0375,London,Operations,Financial services,Medium,Professional certification,Mid,10.6,1,69.7,2,1,35.9,27.5,106300
+EMP-0401,South East,Product,Public sector,Small,Professional certification,Associate,2.2,2,86.8,1,0,43.2,40.2,72100
+EMP-0258,London,Software,Healthcare,Medium,Bachelor,Senior,6.5,1,71.7,2,0,37.7,25.0,104100
+EMP-0073,Yorkshire,Software,Technology,Enterprise,Master,Mid,11.8,4,71.8,4,0,31.2,53.9,110500
+EMP-0196,London,People,Retail,Large,Bachelor,Mid,11.9,1,72.5,2,1,32.7,44.3,99800
+EMP-0484,South East,Product,Retail,Large,Master,Mid,7.8,0,79.4,1,0,30.0,26.3,88500
+EMP-0138,Scotland,Finance,Financial services,Large,Bachelor,Senior,0.8,1,78.8,4,0,43.6,25.8,85300
+EMP-0495,Yorkshire,Software,Retail,Medium,Bachelor,Associate,8.5,3,88.2,5,0,42.5,56.3,85600
+EMP-0551,North West,People,Financial services,Small,Apprenticeship,Associate,2.8,3,76.6,1,0,39.1,44.1,70100
+EMP-0463,South West,Data,Public sector,Medium,Apprenticeship,Mid,10.2,0,75.7,5,1,36.3,35.8,99600
+EMP-0202,South West,Finance,Retail,Medium,Master,Associate,1.6,2,69.5,5,0,35.8,78.3,63000
+EMP-0313,South East,Operations,Retail,Small,Bachelor,Associate,2.3,2,82.3,0,0,37.2,39.9,62800
+EMP-0291,Yorkshire,Operations,Education,Medium,Apprenticeship,Associate,4.8,1,71.5,4,0,38.1,27.8,63400
+EMP-0190,South East,Software,Public sector,Small,Master,Senior,5.5,0,72.5,1,0,35.9,2.7,81700
+EMP-0113,South East,Software,Financial services,Enterprise,Professional certification,Associate,6.8,0,84.9,0,0,37.0,31.4,88800
+EMP-0184,South East,Operations,Public sector,Medium,Master,Mid,5.4,1,77.5,3,0,35.5,7.8,80400
+EMP-0153,London,People,Education,Large,Bachelor,Lead,3.2,3,81.3,3,0,33.5,35.8,101700
+EMP-0326,West Midlands,Software,Retail,Medium,Bachelor,Senior,4.2,2,78.6,1,0,39.9,33.6,90800
+EMP-0045,Yorkshire,People,Healthcare,Small,Bachelor,Associate,10.6,4,87.2,1,1,37.8,33.6,91000
+EMP-0445,South East,Data,Healthcare,Medium,Bachelor,Associate,7.7,3,74.1,3,0,36.0,59.8,85600
+EMP-0007,West Midlands,Software,Technology,Small,Professional certification,Associate,11.2,4,72.6,0,0,33.4,61.8,94700
+EMP-0251,West Midlands,Software,Healthcare,Enterprise,Bachelor,Mid,4.3,1,88.1,2,0,40.5,23.9,81700
+EMP-0076,South East,Software,Technology,Large,Professional certification,Associate,1.5,1,69.3,5,0,43.4,46.3,79300
+EMP-0513,London,Data,Retail,Medium,Bachelor,Mid,2.9,1,68.1,0,0,36.1,86.9,83800
+EMP-0392,London,Software,Healthcare,Large,Apprenticeship,Lead,2.9,1,75.5,1,0,41.9,71.0,98800
+EMP-0433,West Midlands,Data,Technology,Small,Apprenticeship,Associate,4.6,1,72.7,1,0,31.8,27.6,71200
+EMP-0069,London,Finance,Education,Large,Bachelor,Mid,2.4,2,73.9,4,0,30.6,11.7,80000
+EMP-0168,Yorkshire,Data,Retail,Enterprise,Master,Associate,3.9,3,71.1,5,0,37.8,96.2,73800
+EMP-0555,London,Data,Financial services,Medium,Master,Mid,3.7,1,52.3,4,0,37.1,6.5,97000
+EMP-0367,Yorkshire,Product,Retail,Enterprise,Apprenticeship,Associate,3.8,2,76.0,5,0,42.6,30.1,73000
+EMP-0346,Yorkshire,People,Retail,Enterprise,Apprenticeship,Senior,13.6,0,79.1,1,1,42.6,25.5,102700
+EMP-0585,South West,Finance,Healthcare,Small,Master,Senior,0.8,0,62.5,3,0,31.5,34.1,71900
+EMP-0536,South East,Finance,Healthcare,Large,Bachelor,Mid,7.4,1,71.5,2,0,35.5,45.2,91100
+EMP-0399,North West,Software,Technology,Medium,Apprenticeship,Senior,4.4,0,68.4,2,0,32.5,31.0,94600
+EMP-0186,West Midlands,Operations,Education,Enterprise,Bachelor,Mid,4.8,4,69.4,2,0,39.6,26.5,83600
+EMP-0349,Wales,Data,Retail,Large,Professional certification,Senior,7.2,0,52.7,0,1,33.3,25.6,94400
+EMP-0616,West Midlands,Finance,Education,Small,Master,Associate,5.8,3,85.3,0,1,34.6,58.1,71700
+EMP-0212,Wales,Software,Healthcare,Medium,Bachelor,Mid,3.4,2,88.6,5,0,41.8,27.9,87400
+EMP-0580,North West,Software,Healthcare,Large,Bachelor,Senior,3.2,1,95.4,5,0,44.1,2.2,88400
+EMP-0503,South West,Finance,Technology,Medium,Bachelor,Senior,7.3,0,67.5,1,0,39.2,27.1,89500
+EMP-0538,London,Finance,Technology,Medium,Bachelor,Associate,3.5,2,67.7,2,0,41.8,0.0,80400
+EMP-0197,Wales,Data,Public sector,Medium,Bachelor,Associate,5.8,3,81.2,0,1,32.6,33.1,82700
+EMP-0176,London,Finance,Healthcare,Medium,Bachelor,Associate,12.6,1,76.3,2,0,38.3,35.7,97200
