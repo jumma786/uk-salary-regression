@@ -1,0 +1,11 @@
+role_family,region,seniority_level,years_experience,actual_salary_gbp,predicted_salary_gbp,residual_gbp,absolute_error_gbp
+Finance,Yorkshire,Lead,5.8,107700,90861.0,16839.0,16839.0
+Software,London,Associate,1.3,66800,82636.0,-15836.0,15836.0
+Data,London,Associate,2.9,72000,86125.0,-14125.0,14125.0
+People,Wales,Senior,5.6,75300,88516.0,-13216.0,13216.0
+People,South West,Mid,2.6,47600,60752.0,-13152.0,13152.0
+Software,Yorkshire,Mid,5.9,90600,77488.0,13112.0,13112.0
+Product,London,Mid,2.5,73000,85385.0,-12385.0,12385.0
+Finance,Scotland,Associate,2.1,89400,77171.0,12229.0,12229.0
+Data,London,Lead,2.6,108500,96671.0,11829.0,11829.0
+Product,South East,Associate,5.5,85400,73665.0,11735.0,11735.0
